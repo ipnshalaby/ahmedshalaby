@@ -16,6 +16,8 @@ http://78.129.185.84:25014/stream/4/
 
 #EXTINF:-1,Delta
 http://cp12.serverse.com:7057/live
+#EXTINF:-1,Delta2
+http://108.61.34.50:7057/live
 
 #EXTINF:-1,Ajyal
 http://streamer.mada.ps:8008/ajyal
