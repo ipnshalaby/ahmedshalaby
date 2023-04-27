@@ -14,7 +14,12 @@ http://62.182.82.104:80/L_2_PREMIUM/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1, group-title="Local - BEIN",Bep3mono
 http://62.182.82.104:80/L_3_PREMIUM/tracks-v1a1/mono.m3u8?token=test
 
-
+#EXTINF:-1, group-title="Local - BEIN",Beinpr1webrtc
+http://94.130.163.18:5080/WebRTCApp/streams/01_Bein_Premuim_1.m3u8
+#EXTINF:-1, group-title="Local - BEIN",Beinpr2webrtc
+http://94.130.163.18:5080/WebRTCApp/streams/01_Bein_Premuim_2.m3u8
+#EXTINF:-1, group-title="Local - BEIN",Bejnpr3webrtc
+http://94.130.163.18:5080/WebRTCApp/streams/01_Bein_Premuim_3.m3u8
 
 #EXTINF:-1, group-title="Local - BEIN",Beinp1onlinewebtv
 https://webudit.onlinewebtv.lol:443/lb/premium98/index.m3u8?|referer=https://streamservicehd.click/&ZaNa.m3u8
@@ -106,77 +111,6 @@ https://www.elahmad.net/app_2/arena_ip.php?id=146
 
 
 
-#EXTINF:-1, group-title="Local - BEIN",Bp1mainuser4k
-http://89.105.216.22:8080/live/main_user/main_user/9569.ts
-#EXTINF:-1, group-title="Local - BEIN",Bp2mainuser4k
-http://89.105.216.22:8080/live/main_user/main_user/9570.ts
-#EXTINF:-1, group-title="Local - BEIN",Bp3mainuser4k
-http://89.105.216.22:8080/live/main_user/main_user/9571.ts
-
-#EXTINF:-1, group-title="Local - BEIN",Bp1mainuserHD
-http://89.105.216.22:8080/live/main_user/main_user/9581.ts
-#EXTINF:-1, group-title="Local - BEIN",Bp2mainuserHD
-http://89.105.216.22:8080/live/main_user/main_user/9582.ts
-#EXTINF:-1, group-title="Local - BEIN",Bp3mainuserHD
-http://89.105.216.22:8080/live/main_user/main_user/9583.ts
-
-#EXTINF:-1, group-title="Local - BEIN",Bp1mainuserSD
-http://89.105.216.22:8080/live/main_user/main_user/9622.ts
-#EXTINF:-1, group-title="Local - BEIN",Bp2mainuserSD
-http://89.105.216.22:8080/live/main_user/main_user/9600.ts
-#EXTINF:-1, group-title="Local - BEIN",Bp3mainuserSD
-http://89.105.216.22:8080/live/main_user/main_user/9601.ts
-
-
-#EXTINF:-1, group-title="Local - BEIN",B1mainuser4k
-http://89.105.216.22:8080/live/main_user/main_user/9562.ts
-#EXTINF:-1, group-title="Local - BEIN",B2mainuser4k
-http://89.105.216.22:8080/live/main_user/main_user/9563.ts
-#EXTINF:-1, group-title="Local - BEIN",B3mainuser4k
-http://89.105.216.22:8080/live/main_user/main_user/9564.ts
-#EXTINF:-1, group-title="Local - BEIN",B4mainuser4k
-http://89.105.216.22:8080/live/main_user/main_user/9565.ts
-#EXTINF:-1, group-title="Local - BEIN",B5mainuser4k
-http://89.105.216.22:8080/live/main_user/main_user/9566.ts
-#EXTINF:-1, group-title="Local - BEIN",B6mainuser4k
-http://89.105.216.22:8080/live/main_user/main_user/9567.ts
-
-
-#EXTINF:-1, group-title="Local - BEIN",B1mainuserHD
-http://89.105.216.22:8080/live/main_user/main_user/9574.ts
-#EXTINF:-1, group-title="Local - BEIN",B2mainuserHD
-http://89.105.216.22:8080/live/main_user/main_user/9575.ts
-#EXTINF:-1, group-title="Local - BEIN",B3mainuserHD
-http://89.105.216.22:8080/live/main_user/main_user/9576.ts
-#EXTINF:-1, group-title="Local - BEIN",B4mainuserHD
-http://89.105.216.22:8080/live/main_user/main_user/9577.ts
-#EXTINF:-1, group-title="Local - BEIN",B5mainuserHD
-http://89.105.216.22:8080/live/main_user/main_user/9578.ts
-#EXTINF:-1, group-title="Local - BEIN",B6mainuserHD
-http://89.105.216.22:8080/live/main_user/main_user/9579.ts
-
-
-#EXTINF:-1, group-title="Local - BEIN",BmainuserSD
-http://89.105.216.22:8080/live/main_user/main_user/9593.ts
-#EXTINF:-1, group-title="Local - BEIN",BmainuserSD
-http://89.105.216.22:8080/live/main_user/main_user/9594.ts
-#EXTINF:-1, group-title="Local - BEIN",BmainuserSD
-http://89.105.216.22:8080/live/main_user/main_user/9595.ts
-#EXTINF:-1, group-title="Local - BEIN",BmainuserSD
-http://89.105.216.22:8080/live/main_user/main_user/9596.ts
-#EXTINF:-1, group-title="Local - BEIN",BmainuserSD
-http://89.105.216.22:8080/live/main_user/main_user/9597.ts
-#EXTINF:-1, group-title="Local - #EXTINF:-1, group-title="Local - BEIN",BEIN",BmainuserSD
-http://89.105.216.22:8080/live/main_user/main_user/9598.ts
-
-#EXTINF:-1, group-title="Local - BEIN",Fajr1mainuser
-http://89.105.216.22:8080/live/main_user/main_user/656.ts
-#EXTINF:-1, group-title="Local - BEIN",Fajr2mainuser
-http://89.105.216.22:8080/live/main_user/main_user/739.ts
-#EXTINF:-1, group-title="Local - BEIN",Ex1HDmainuser
-http://89.105.216.22:8080/live/main_user/main_user/9587.ts
-#EXTINF:-1, group-title="Local - BEIN",Ex2HDmainuser
-http://89.105.216.22:8080/live/main_user/main_user/9588.ts
 
 
 #EXTINF:-1, group-title="Local - BEIN",Beinpr1webrtc
