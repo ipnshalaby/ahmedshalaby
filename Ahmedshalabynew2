@@ -591,3 +591,13 @@ http://line.lemotv.cc:25461/Ivica5274/juric4005/943524
 http://line.lemotv.cc:25461/Ivica5274/juric4005/943527
 
 
+
+#EXTM3U
+#EXTINF:-1 group-title="mainservices" tvg-logo="http://onlytimewilltell.xyz:2086/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" tvg-id="BEIN1HD" ,SPORTS : BEIN SPORTS PREMIUM 01
+http://mains.services:2086/67564813/7966702/66772
+#EXTINF:-1 group-title="mainservices" tvg-logo="http://onlytimewilltell.xyz:2086/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" tvg-id="BEIN2HD" ,SPORTS : BEIN SPORTS PREMIUM 02
+http://mains.services:2086/67564813/7966702/66773
+#EXTINF:-1 group-title="mainservices" tvg-logo="http://onlytimewilltell.xyz:2086/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" tvg-id="BEIN3HD" ,SPORTS : BEIN SPORTS PREMIUM 03
+http://mains.services:2086/67564813/7966702/66774
+
+
