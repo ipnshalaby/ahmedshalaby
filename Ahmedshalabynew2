@@ -556,3 +556,38 @@ http://obsfullhd.tv:25461/Exchnico0237/A2KaDRoOI3/64193
 
 http://obsfullhd.tv:25461/Exchnico0237/A2KaDRoOI3/66306
 
+
+
+#EXTM3U
+#EXTINF:-1 group-title="lemotv" tvg-logo="http://185.156.74.135:80/images/8eeed1322ac97aa35e045147ae851f25.png" ,AR: BEIN SPORTS Premium 1
+http://line.lemotv.cc:25461/Ivica5274/juric4005/515973
+#EXTINF:-1 group-title="lemotv" tvg-logo="http://5.44.253.151:80/images/39ffc1228f46acfbb6a5c36476ad70fc.png" ,AR: BEIN SPORTS Premium 1 HD
+http://line.lemotv.cc:25461/Ivica5274/juric4005/1123898
+#EXTINF:-1 group-title="lemotv" tvg-logo="http://185.156.74.135:80/images/39ffc1228f46acfbb6a5c36476ad70fc.png" ,AR: BEIN SPORTS Premium 2 HD
+http://line.lemotv.cc:25461/Ivica5274/juric4005/1123899
+#EXTINF:-1 group-title="lemotv" tvg-logo="http://181.233.124.38:80/images/39ffc1228f46acfbb6a5c36476ad70fc.png" ,AR: BEIN SPORTS Premium 3 HEVC HD
+http://line.lemotv.cc:25461/Ivica5274/juric4005/1123900
+#EXTINF:-1 group-title="lemotv" tvg-logo="http://5.44.253.151:80/images/ca81a1aeb937fdc1464879d68b29d971.png" ,AR: beIN Sports 1 FHD
+http://line.lemotv.cc:25461/Ivica5274/juric4005/515957
+#EXTINF:-1 group-title="lemotv" tvg-logo="http://181.233.124.38:80/images/b16e99a30d8e8367720eeb1c19601e6a.png" ,AR: beIN Sports 2 FHD
+http://line.lemotv.cc:25461/Ivica5274/juric4005/515959
+#EXTINF:-1 group-title="lemotv" tvg-logo="http://181.233.124.38:80/images/684b5b9acd8ab4d2f942198e205a3b68.png" ,AR beIN Sports 3 FHD
+http://line.lemotv.cc:25461/Ivica5274/juric4005/515962
+#EXTINF:-1 group-title="lemotv" tvg-logo="http://5.44.253.151:80/images/badb3b94e26db066a8a78b989ddefaac.png" ,AR beIN Sports 4 FHD
+http://line.lemotv.cc:25461/Ivica5274/juric4005/515964
+#EXTINF:-1 group-title="lemotv" tvg-logo="http://181.233.124.38:80/images/da190ec5b532bbd9b8ada22521bf09c5.png" ,AR beIN Sports 5 FHD
+http://line.lemotv.cc:25461/Ivica5274/juric4005/515966
+#EXTINF:-1 group-title="lemotv" tvg-logo="http://181.233.124.38:80/images/46019e03e56f53c12cfb13d6820d525c.png" ,AR: beIN Sports 6 FHD
+http://line.lemotv.cc:25461/Ivica5274/juric4005/515967
+#EXTINF:-1 group-title="lemotv" tvg-logo="http://181.233.124.38:80/images/5934575c75e31abb4688b546e49f8f9d.png" ,AR: beIN Sports 7 FHD
+http://line.lemotv.cc:25461/Ivica5274/juric4005/515968
+#EXTINF:-1 group-title="lemotv" tvg-logo="http://181.233.124.38:80/images/9dadd0d9ae004374fe5e26e9988d9e19.png" ,AR- BeIN Sports SD 1
+http://line.lemotv.cc:25461/Ivica5274/juric4005/943521
+#EXTINF:-1 group-title="lemotv" tvg-logo="http://ky-iptv.com:25461/images/583a932e3c2264418121792e60cb23ab.png" ,AR- BeIN Sports SD 2
+http://line.lemotv.cc:25461/Ivica5274/juric4005/943522
+#EXTINF:-1 group-title="lemotv" tvg-logo="http://181.233.124.38:80/images/8623f4658244f0913cd1897dc0b1874a.png" ,AR: BeIN Sports SD 4
+http://line.lemotv.cc:25461/Ivica5274/juric4005/943524
+#EXTINF:-1 group-title="lemotv" tvg-logo="http://5.44.253.151:80/images/ca6a99be9705ef3e8241cf3fe436c87e.png" ,AR- BeIN Sports SD 7
+http://line.lemotv.cc:25461/Ivica5274/juric4005/943527
+
+
