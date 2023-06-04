@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1, group-title="Local - BEIN",Alfajr1
+http://live.alfajertv.com:2052/hls1/ftv1/index.m3u8
+#EXTINF:-1, group-title="Local - BEIN",Alfajr2
+#EXTINF:-1, group-title="Local - BEIN",Alfajr
+#EXTINF:-1, group-title="Local - BEIN",Alfajr3
+http://live.alfajertv.com:2052/hls3/ftv3/index.m3u8
+#EXTINF:-1, group-title="Local - BEIN",Alfajr4
+http://live.alfajertv.com:2052/hls4/ftv4/index.m3u8
+#EXTINF:-1, group-title="Local - BEIN",Alfajr5
+http://live.alfajertv.com:2052/hls5/ftv5/index.m3u8
+
+
 #EXTINF:-1, group-title="Local - BEIN",Bep1index
 http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test
 #EXTINF:-1, group-title="Local - BEIN",Bep2index
