@@ -11,6 +11,27 @@ http://live.alfajertv.com:2052/hls4/ftv4/index.m3u8
 #EXTINF:-1, group-title="Local - BEIN",Alfajr5
 http://live.alfajertv.com:2052/hls5/ftv5/index.m3u8
 
+#EXTINF:-1, group-title="Local - BEIN",Bp1ddh
+http://ddh2.cdnhks.lol/ddh2/premium98/playlist.m3u8?|referer=https://ntuplay.xyz/
+#EXTINF:-1, group-title="Local - BEIN",Bp2ddh
+http://ddh2.cdnhks.lol/ddh2/premium99/playlist.m3u8?|referer=https://ntuplay.xyz/
+#EXTINF:-1, group-title="Local - BEIN",Bp3ddh
+http://ddh2.cdnhks.lol/ddh2/premium9100*/playlist.m3u8?|referer=https://ntuplay.xyz/
+
+#EXTINF:-1, group-title="Local - BEIN",B1ddh
+http://ddh2.cdnhks.lol/ddh2/premium91/playlist.m3u8?|referer=https://ntuplay.xyz/
+#EXTINF:-1, group-title="Local - BEIN",B2ddh
+http://ddh2.cdnhks.lol/ddh2/premium92/playlist.m3u8?|referer=https://ntuplay.xyz/
+#EXTINF:-1, group-title="Local - BEIN",B3ddh
+http://ddh2.cdnhks.lol/ddh2/premium93/playlist.m3u8?|referer=https://ntuplay.xyz/
+#EXTINF:-1, group-title="Local - BEIN",B4ddh
+http://ddh2.cdnhks.lol/ddh2/premium94/playlist.m3u8?|referer=https://ntuplay.xyz/
+#EXTINF:-1, group-title="Local - BEIN",B5ddh
+http://ddh2.cdnhks.lol/ddh2/premium95/playlist.m3u8?|referer=https://ntuplay.xyz/
+#EXTINF:-1, group-title="Local - BEIN",B6ddh
+http://ddh2.cdnhks.lol/ddh2/premium96/playlist.m3u8?|referer=https://ntuplay.xyz/
+#EXTINF:-1, group-title="Local - BEIN",B7ddh
+http://ddh2.cdnhks.lol/ddh2/premium97/playlist.m3u8?|referer=https://ntuplay.xyz/
 
 #EXTINF:-1, group-title="Local - BEIN",Bep1index
 http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test
