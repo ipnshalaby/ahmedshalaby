@@ -11,6 +11,17 @@ http://live.alfajertv.com:2052/hls4/ftv4/index.m3u8
 #EXTINF:-1, group-title="Local - BEIN",Alfajr5
 http://live.alfajertv.com:2052/hls5/ftv5/index.m3u8
 
+#EXTINF:-1, group-title="Local - BEIN",Alfajr1720
+http://live.alfajertv.com:2052/hls/ftv1_720p/index.m3u8
+#EXTINF:-1, group-title="Local - BEIN",Alfajr2720
+http://live.alfajertv.com:2052/hls2/ftv2_720p/index.m3u8
+#EXTINF:-1, group-title="Local - BEIN",Alfajr3720
+http://live.alfajertv.com:2052/hls3/ftv3_720p/index.m3u8
+#EXTINF:-1, group-title="Local - BEIN",Alfajr4720
+http://live.alfajertv.com:2052/hls4/ftv4_720p/index.m3u8
+#EXTINF:-1, group-title="Local - BEIN",Alfajr5720
+http://live.alfajertv.com:2052/hls5/ftv5_720p/index.m3u8
+
 #EXTINF:-1, group-title="Local - BEIN",Bp1ddh
 http://ddh2.cdnhks.lol/ddh2/premium98/playlist.m3u8?|referer=https://ntuplay.xyz/
 #EXTINF:-1, group-title="Local - BEIN",Bp2ddh
