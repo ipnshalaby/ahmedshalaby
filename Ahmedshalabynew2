@@ -23,49 +23,49 @@ http://live.alfajertv.com:2052/hls4/ftv4_720p/index.m3u8
 http://live.alfajertv.com:2052/hls5/ftv5_720p/index.m3u8
 
 #EXTINF:-1, group-title="YallaGoalApp",Br1
-94.130.163.18:5080/YallaGoalApp/streams/01_Bein_Premuim_1.m3u8
+http://94.130.163.18:5080/YallaGoalApp/streams/01_Bein_Premuim_1.m3u8
 #EXTINF:-1, group-title="YallaGoalApp",Br2
-94.130.163.18:5080/YallaGoalApp/streams/01_Bein_Premuim_2.m3u8
+http://94.130.163.18:5080/YallaGoalApp/streams/01_Bein_Premuim_2.m3u8
 #EXTINF:-1, group-title="YallaGoalApp",Br3
-94.130.163.18:5080/YallaGoalApp/streams/01_Bein_Premuim_3.m3u8
+http://94.130.163.18:5080/YallaGoalApp/streams/01_Bein_Premuim_3.m3u8
 
 #EXTINF:-1, group-title="YallaGoalApp",B1
-94.130.163.18:5080/YallaGoalApp/streams/01_Bein_Sports_1.m3u8
+http://94.130.163.18:5080/YallaGoalApp/streams/01_Bein_Sports_1.m3u8
 #EXTINF:-1, group-title="YallaGoalApp",B2
-94.130.163.18:5080/YallaGoalApp/streams/01_Bein_Sports_2.m3u8
+http://94.130.163.18:5080/YallaGoalApp/streams/01_Bein_Sports_2.m3u8
 #EXTINF:-1, group-title="YallaGoalApp",B3
-94.130.163.18:5080/YallaGoalApp/streams/01_Bein_Sports_3.m3u8
+http://94.130.163.18:5080/YallaGoalApp/streams/01_Bein_Sports_3.m3u8
 #EXTINF:-1, group-title="YallaGoalApp",B4
-94.130.163.18:5080/YallaGoalApp/streams/01_Bein_Sports_4.m3u8
+http://94.130.163.18:5080/YallaGoalApp/streams/01_Bein_Sports_4.m3u8
 #EXTINF:-1, group-title="YallaGoalApp",B5
-94.130.163.18:5080/YallaGoalApp/streams/01_Bein_Sports_5.m3u8
+http://94.130.163.18:5080/YallaGoalApp/streams/01_Bein_Sports_5.m3u8
 #EXTINF:-1, group-title="YallaGoalApp",B6
-94.130.163.18:5080/YallaGoalApp/streams/01_Bein_Sports_6.m3u8
+http://94.130.163.18:5080/YallaGoalApp/streams/01_Bein_Sports_6.m3u8
 #EXTINF:-1, group-title="YallaGoalApp",B7
-94.130.163.18:5080/YallaGoalApp/streams/01_Bein_Sports_7.m3u8
+http://94.130.163.18:5080/YallaGoalApp/streams/01_Bein_Sports_7.m3u8
 
 
 #EXTINF:-1, group-title="YallaGoalApp",Br1
-94.130.163.18:5080/YallaGoalApp/streams/02_Bein_Premuim_1.m3u8
+http://94.130.163.18:5080/YallaGoalApp/streams/02_Bein_Premuim_1.m3u8
 #EXTINF:-1, group-title="YallaGoalApp",Br2
-94.130.163.18:5080/YallaGoalApp/streams/02_Bein_Premuim_2.m3u8
+http://94.130.163.18:5080/YallaGoalApp/streams/02_Bein_Premuim_2.m3u8
 #EXTINF:-1, group-title="YallaGoalApp",Br3
-94.130.163.18:5080/YallaGoalApp/streams/02_Bein_Premuim_3.m3u8
+http://94.130.163.18:5080/YallaGoalApp/streams/02_Bein_Premuim_3.m3u8
 
 #EXTINF:-1, group-title="YallaGoalApp",B1
-94.130.163.18:5080/YallaGoalApp/streams/02_Bein_Sports_1.m3u8
+http://94.130.163.18:5080/YallaGoalApp/streams/02_Bein_Sports_1.m3u8
 #EXTINF:-1, group-title="YallaGoalApp",B2
-94.130.163.18:5080/YallaGoalApp/streams/02_Bein_Sports_2.m3u8
+http://94.130.163.18:5080/YallaGoalApp/streams/02_Bein_Sports_2.m3u8
 #EXTINF:-1, group-title="YallaGoalApp",B3
 94.130.163.18:5080/YallaGoalApp/streams/02_Bein_Sports_3.m3u8
 #EXTINF:-1, group-title="YallaGoalApp",B4
-94.130.163.18:5080/YallaGoalApp/streams/02_Bein_Sports_4.m3u8
+http://94.130.163.18:5080/YallaGoalApp/streams/02_Bein_Sports_4.m3u8
 #EXTINF:-1, group-title="YallaGoalApp",B5
-94.130.163.18:5080/YallaGoalApp/streams/02_Bein_Sports_5.m3u8
+http://94.130.163.18:5080/YallaGoalApp/streams/02_Bein_Sports_5.m3u8
 #EXTINF:-1, group-title="YallaGoalApp",B6
-94.130.163.18:5080/YallaGoalApp/streams/02_Bein_Sports_6.m3u8
+http://94.130.163.18:5080/YallaGoalApp/streams/02_Bein_Sports_6.m3u8
 #EXTINF:-1, group-title="YallaGoalApp",B7
-94.130.163.18:5080/YallaGoalApp/streams/02_Bein_Sports_7.m3u8
+http://94.130.163.18:5080/YallaGoalApp/streams/02_Bein_Sports_7.m3u8
 
 
 
