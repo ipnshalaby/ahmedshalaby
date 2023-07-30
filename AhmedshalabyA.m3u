@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1,Anisfm
+https://sportify.ddns.net/69587/sportify/ali/anis1
 
 #EXTINF:-1,ad1
 http://hd.kossomk.info/ad1/mpegts
@@ -9,6 +11,7 @@ http://hd.kossomk.info/ad2/mpegts
 #EXTINF:-1,Ssc1
 audio.10z.info/SSC1/mpegts
 #EXTINF:-1,Ssc2
+audio.10z.info/SSC2/mpegts
 
 #EXTINF:-1,SscEx1
 audio.10z.info/ssc-extra1/mpegts
@@ -20,31 +23,25 @@ hd.kossomk.org/ssc-extra1/mpegts
 #EXTINF:-1,2SscEx2
 hd.kossomk.org/ssc-extra2/mpegts
 
-
-#EXTINF:-1,Delta
-
-#EXTINF:-1,Delta2
-
-
 #EXTINF:-1,Beinp 1 ipaudio
-
+au1.vvod4.win/prx1M/mpegts
 #EXTINF:-1,Beinp 2 ipaudio
-
+au1.vvod4.win/prx2M/mpegts
 #EXTINF:-1,Beinp 3 ipaudio
-
+au1.vvod4.win/prx3M/mpegts
 
 #EXTINF:-1,Bein 1 ipaudio
-
+au1.vvod4.win/px1M/mpegts
 #EXTINF:-1,Bein 2 ipaudio
-
+au1.vvod4.win/px2M/mpegts
 #EXTINF:-1,Bein 3 ipaudio
-
+au1.vvod4.win/px3M/mpegts
 #EXTINF:-1,Bein 4 ipaudio
-
+au1.vvod4.win/px4M/mpegts
 #EXTINF:-1,Bein 5 ipaudio
-
+au1.vvod4.win/px5M/mpegts
 #EXTINF:-1,Bein 6 ipaudio
-
+au1.vvod4.win/px6M/mpegts
 
 
 #EXTINF:-1,Beinpr1BQ
