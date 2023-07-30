@@ -1,26 +1,29 @@
 #EXTM3U
 
 
-#EXTINF:-1,Anis HD1
+#EXTINF:-1,ad1
+http://hd.kossomk.info/ad1/mpegts
+#EXTINF:-1,ad2
+http://hd.kossomk.info/ad2/mpegts
 
-#EXTINF:-1,Anis SD1
+#EXTINF:-1,Ssc1
+audio.10z.info/SSC1/mpegts
+#EXTINF:-1,Ssc2
 
+#EXTINF:-1,SscEx1
+audio.10z.info/ssc-extra1/mpegts
+#EXTINF:-1,SscEx2
+audio.10z.info/ssc-extra2/mpegts
 
-#EXTINF:-1,Anis 2
-
-#EXTINF:-1,Anis 3
-/
-#EXTINF:-1,Anis 4
-
+#EXTINF:-1,2SscEx1
+hd.kossomk.org/ssc-extra1/mpegts
+#EXTINF:-1,2SscEx2
+hd.kossomk.org/ssc-extra2/mpegts
 
 
 #EXTINF:-1,Delta
 
 #EXTINF:-1,Delta2
-
-
-#EXTINF:-1,Ajyal
-http://streamer.mada.ps:8008/ajyal
 
 
 #EXTINF:-1,Beinp 1 ipaudio
