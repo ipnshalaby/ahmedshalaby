@@ -1,228 +1,522 @@
 #EXTM3U
 
-#EXTINF:-1, group-title="Local - BEIN",Alfajr1
-http://live.alfajertv.com:2052/hls1/ftv1/index.m3u8
-#EXTINF:-1, group-title="Local - BEIN",Alfajr2
-http://live.alfajertv.com:2052/hls2/ftv2/index.m3u8
-#EXTINF:-1, group-title="Local - BEIN",Alfajr3
-http://live.alfajertv.com:2052/hls3/ftv3/index.m3u8
-#EXTINF:-1, group-title="Local - BEIN",Alfajr4
-http://live.alfajertv.com:2052/hls4/ftv4/index.m3u8
-#EXTINF:-1, group-title="Local - BEIN",Alfajr5
-http://live.alfajertv.com:2052/hls5/ftv5/index.m3u8
+#EXTINF:-1 group-title="BEIN SPORT MINI 512K" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b1.png" ,BEIN SPORT 1 MINI 512K
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1644
+#EXTINF:-1 group-title="BEIN SPORT MINI 512K" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b2.png" ,BEIN SPORT 2 MINI 512K
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1645
+#EXTINF:-1 group-title="BEIN SPORT MINI 512K" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b3.png" ,BEIN SPORT 3 MINI 512K
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1646
+#EXTINF:-1 group-title="BEIN SPORT MINI 512K" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b4.png" ,BEIN SPORT 4 MINI 512K
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1647
+#EXTINF:-1 group-title="BEIN SPORT MINI 512K" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b5.png" ,BEIN SPORT 5 MINI 512K
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1648
+#EXTINF:-1 group-title="BEIN SPORT MINI 512K" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b6.png" ,BEIN SPORT 6 MINI 512K
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1649
+#EXTINF:-1 group-title="BEIN SPORT MINI 512K" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b7.png" ,BEIN SPORT 7 MINI 512K
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1650
+#EXTINF:-1 group-title="BEIN SPORT MINI 512K" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b8.png" ,BEIN SPORT 8 MINI 512K
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1651
+#EXTINF:-1 group-title="BEIN SPORT MINI 512K" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b9.png" ,BEIN SPORT 9 MINI 512K
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1652
+#EXTINF:-1 group-title="BEIN SPORT LOW 1M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b1.png" ,BEIN SPORT 1 LOW 1M
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1634
+#EXTINF:-1 group-title="BEIN SPORT LOW 1M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b2.png" ,BEIN SPORT 2 LOW 1M
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1635
+#EXTINF:-1 group-title="BEIN SPORT LOW 1M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b3.png" ,BEIN SPORT 3 LOW 1M
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1636
+#EXTINF:-1 group-title="BEIN SPORT LOW 1M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b4.png" ,BEIN SPORT 4 LOW 1M
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1637
+#EXTINF:-1 group-title="BEIN SPORT LOW 1M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b5.png" ,BEIN SPORT 5 LOW 1M
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1638
+#EXTINF:-1 group-title="BEIN SPORT LOW 1M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b6.png" ,BEIN SPORT 6 LOW 1M
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1639
+#EXTINF:-1 group-title="BEIN SPORT LOW 1M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b7.png" ,BEIN SPORT 7 LOW 1M
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1640
+#EXTINF:-1 group-title="BEIN SPORT LOW 1M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b8.png" ,BEIN SPORT 8 LOW 1M
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1641
+#EXTINF:-1 group-title="BEIN SPORT LOW 1M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b9.png" ,BEIN SPORT 9 LOW 1M
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1642
+#EXTINF:-1 group-title="BEIN SPORT SD 2M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b1.png" ,BEIN SPORT 1 SD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1612
+#EXTINF:-1 group-title="BEIN SPORT SD 2M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b2.png" ,BEIN SPORT 2 SD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1613
+#EXTINF:-1 group-title="BEIN SPORT SD 2M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b3.png" ,BEIN SPORT 3 SD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1614
+#EXTINF:-1 group-title="BEIN SPORT SD 2M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b4.png" ,BEIN SPORT 4 SD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1615
+#EXTINF:-1 group-title="BEIN SPORT SD 2M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b5.png" ,BEIN SPORT 5 SD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1616
+#EXTINF:-1 group-title="BEIN SPORT SD 2M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b6.png" ,BEIN SPORT 6 SD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1617
+#EXTINF:-1 group-title="BEIN SPORT SD 2M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b7.png" ,BEIN SPORT 7 SD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1618
+#EXTINF:-1 group-title="BEIN SPORT SD 2M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b8.png" ,BEIN SPORT 8 SD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1619
+#EXTINF:-1 group-title="BEIN SPORT SD 2M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b9.png" ,BEIN SPORT 9 SD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1620
+#EXTINF:-1 group-title="BEIN SPORT HD NANO 2M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b1.png" ,BEIN SPORT 1 NANO 2M
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1624
+#EXTINF:-1 group-title="BEIN SPORT HD NANO 2M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b2.png" ,BEIN SPORT 2 NANO 2M
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1625
+#EXTINF:-1 group-title="BEIN SPORT HD NANO 2M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b3.png" ,BEIN SPORT 3 NANO 2M
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1626
+#EXTINF:-1 group-title="BEIN SPORT HD NANO 2M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b4.png" ,BEIN SPORT 4 NANO 2M
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1627
+#EXTINF:-1 group-title="BEIN SPORT HD NANO 2M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b5.png" ,BEIN SPORT 5 NANO 2M
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1628
+#EXTINF:-1 group-title="BEIN SPORT HD NANO 2M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b6.png" ,BEIN SPORT 6 NANO 2M
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1629
+#EXTINF:-1 group-title="BEIN SPORT HD NANO 2M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b7.png" ,BEIN SPORT 7 NANO 2M
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1630
+#EXTINF:-1 group-title="BEIN SPORT HD NANO 2M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b8.png" ,BEIN SPORT 8 NANO 2M
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1631
+#EXTINF:-1 group-title="BEIN SPORT HD NANO 2M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b9.png" ,BEIN SPORT 9 NANO 2M
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1632
+#EXTINF:-1 group-title="BEIN SPORT HQ 4M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b1.png" ,BEIN SPORT 1 HQ
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1590
+#EXTINF:-1 group-title="BEIN SPORT HQ 4M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b2.png" ,BEIN SPORT 2 HQ
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1591
+#EXTINF:-1 group-title="BEIN SPORT HQ 4M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b3.png" ,BEIN SPORT 3 HQ
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1592
+#EXTINF:-1 group-title="BEIN SPORT HQ 4M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b4.png" ,BEIN SPORT 4 HQ
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1593
+#EXTINF:-1 group-title="BEIN SPORT HQ 4M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b5.png" ,BEIN SPORT 5 HQ
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1594
+#EXTINF:-1 group-title="BEIN SPORT HQ 4M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b6.png" ,BEIN SPORT 6 HQ
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1595
+#EXTINF:-1 group-title="BEIN SPORT HQ 4M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b7.png" ,BEIN SPORT 7 HQ
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1596
+#EXTINF:-1 group-title="BEIN SPORT HQ 4M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b8.png" ,BEIN SPORT 8 HQ
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1597
+#EXTINF:-1 group-title="BEIN SPORT HQ 4M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b9.png" ,BEIN SPORT 9 HQ
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1598
+#EXTINF:-1 group-title="BEIN SPORT PURE 4/8M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b1.png" ,BEIN SPORT 1 PURE
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1602
+#EXTINF:-1 group-title="BEIN SPORT PURE 4/8M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b2.png" ,BEIN SPORT 2 PURE
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1603
+#EXTINF:-1 group-title="BEIN SPORT PURE 4/8M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b3.png" ,BEIN SPORT 3 PURE
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1604
+#EXTINF:-1 group-title="BEIN SPORT PURE 4/8M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b4.png" ,BEIN SPORT 4 PURE
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1605
+#EXTINF:-1 group-title="BEIN SPORT PURE 4/8M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b5.png" ,BEIN SPORT 5 PURE
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1606
+#EXTINF:-1 group-title="BEIN SPORT PURE 4/8M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b6.png" ,BEIN SPORT 6 PURE
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1607
+#EXTINF:-1 group-title="BEIN SPORT PURE 4/8M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b7.png" ,BEIN SPORT 7 PURE
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1608
+#EXTINF:-1 group-title="BEIN SPORT PURE 4/8M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b8.png" ,BEIN SPORT 8 PURE
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1609
+#EXTINF:-1 group-title="BEIN SPORT PURE 4/8M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b9.png" ,BEIN SPORT 9 PURE
+http://mynetworks.info/TestFD1015/DF1015FBBE447/1610
+#EXTINF:-1 group-title="BEIN SPORT H265 HQ 1M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b1h.png" ,BEIN SPORT 1 H265 HQ
+http://mynetworks.info/TestFD1015/DF1015FBBE447/15943
+#EXTINF:-1 group-title="BEIN SPORT H265 HQ 1M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b2h.png" ,BEIN SPORT 2 H265 HQ
+http://mynetworks.info/TestFD1015/DF1015FBBE447/15944
+#EXTINF:-1 group-title="BEIN SPORT H265 HQ 1M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b3h.png" ,BEIN SPORT 3 H265 HQ
+http://mynetworks.info/TestFD1015/DF1015FBBE447/15945
+#EXTINF:-1 group-title="BEIN SPORT H265 HQ 1M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b4h.png" ,BEIN SPORT 4 H265 HQ
+http://mynetworks.info/TestFD1015/DF1015FBBE447/15946
+#EXTINF:-1 group-title="BEIN SPORT H265 HQ 1M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b5h.png" ,BEIN SPORT 5 H265 HQ
+http://mynetworks.info/TestFD1015/DF1015FBBE447/15947
+#EXTINF:-1 group-title="BEIN SPORT H265 HQ 1M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b6h.png" ,BEIN SPORT 6 H265 HQ
+http://mynetworks.info/TestFD1015/DF1015FBBE447/15948
+#EXTINF:-1 group-title="BEIN SPORT H265 HQ 1M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b7h.png" ,BEIN SPORT 7 H265 HQ
+http://mynetworks.info/TestFD1015/DF1015FBBE447/15949
+#EXTINF:-1 group-title="BEIN SPORT H265 HQ 1M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b8h.png" ,BEIN SPORT 8 H265 HQ
+http://mynetworks.info/TestFD1015/DF1015FBBE447/15950
+#EXTINF:-1 group-title="BEIN SPORT H265 HQ 1M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b9h.png" ,BEIN SPORT 9 H265 HQ
+http://mynetworks.info/TestFD1015/DF1015FBBE447/15951
+#EXTINF:-1 group-title="BEIN SPORT  H265 HD 2M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b1h.png" ,BEIN SPORT 1 H265 HD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/15933
+#EXTINF:-1 group-title="BEIN SPORT  H265 HD 2M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b2h.png" ,BEIN SPORT 2 H265 HD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/15934
+#EXTINF:-1 group-title="BEIN SPORT  H265 HD 2M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b3h.png" ,BEIN SPORT 3 H265 HD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/15935
+#EXTINF:-1 group-title="BEIN SPORT  H265 HD 2M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b4h.png" ,BEIN SPORT 4 H265 HD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/15936
+#EXTINF:-1 group-title="BEIN SPORT  H265 HD 2M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b5h.png" ,BEIN SPORT 5 H265 HD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/15937
+#EXTINF:-1 group-title="BEIN SPORT  H265 HD 2M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b6h.png" ,BEIN SPORT 6 H265 HD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/15938
+#EXTINF:-1 group-title="BEIN SPORT  H265 HD 2M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b7h.png" ,BEIN SPORT 7 H265 HD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/15939
+#EXTINF:-1 group-title="BEIN SPORT  H265 HD 2M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b8h.png" ,BEIN SPORT 8 H265 HD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/15940
+#EXTINF:-1 group-title="BEIN SPORT  H265 HD 2M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b9h.png" ,BEIN SPORT 9 H265 HD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/15941
+#EXTINF:-1 group-title="BEIN SPORT  H265 FHD 4M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b1h.png" ,BEIN SPORT 1 FHD H265
+http://mynetworks.info/TestFD1015/DF1015FBBE447/12499
+#EXTINF:-1 group-title="BEIN SPORT  H265 FHD 4M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b2h.png" ,BEIN SPORT 2 FHD H265
+http://mynetworks.info/TestFD1015/DF1015FBBE447/12500
+#EXTINF:-1 group-title="BEIN SPORT  H265 FHD 4M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b3h.png" ,BEIN SPORT 3 FHD H265
+http://mynetworks.info/TestFD1015/DF1015FBBE447/12501
+#EXTINF:-1 group-title="BEIN SPORT  H265 FHD 4M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b4h.png" ,BEIN SPORT 4 FHD H265
+http://mynetworks.info/TestFD1015/DF1015FBBE447/12502
+#EXTINF:-1 group-title="BEIN SPORT  H265 FHD 4M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b5h.png" ,BEIN SPORT 5 FHD H265
+http://mynetworks.info/TestFD1015/DF1015FBBE447/12503
+#EXTINF:-1 group-title="BEIN SPORT  H265 FHD 4M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b6h.png" ,BEIN SPORT 6 FHD H265
+http://mynetworks.info/TestFD1015/DF1015FBBE447/12504
+#EXTINF:-1 group-title="BEIN SPORT  H265 FHD 4M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b7h.png" ,BEIN SPORT 7 FHD H265
+http://mynetworks.info/TestFD1015/DF1015FBBE447/12505
+#EXTINF:-1 group-title="BEIN SPORT  H265 FHD 4M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b8h.png" ,BEIN SPORT 8 FHD H265
+http://mynetworks.info/TestFD1015/DF1015FBBE447/12506
+#EXTINF:-1 group-title="BEIN SPORT  H265 FHD 4M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b9h.png" ,BEIN SPORT 9 FHD H265
+http://mynetworks.info/TestFD1015/DF1015FBBE447/12507
+#EXTINF:-1 group-title="BEIN SPORT POWER 8M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b1h.png" ,BEIN SPORTS 1 POWER
+http://mynetworks.info/TestFD1015/DF1015FBBE447/32855
+#EXTINF:-1 group-title="BEIN SPORT POWER 8M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b2h.png" ,BEIN SPORTS 2 POWER
+http://mynetworks.info/TestFD1015/DF1015FBBE447/32854
+#EXTINF:-1 group-title="BEIN SPORT POWER 8M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b3h.png" ,BEIN SPORTS 3 POWER
+http://mynetworks.info/TestFD1015/DF1015FBBE447/32853
+#EXTINF:-1 group-title="BEIN SPORT POWER 8M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b4h.png" ,BEIN SPORTS 4 POWER
+http://mynetworks.info/TestFD1015/DF1015FBBE447/32852
+#EXTINF:-1 group-title="BEIN SPORT POWER 8M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b5h.png" ,BEIN SPORTS 5 POWER
+http://mynetworks.info/TestFD1015/DF1015FBBE447/32851
+#EXTINF:-1 group-title="BEIN SPORT POWER 8M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b6h.png" ,BEIN SPORTS 6 POWER
+http://mynetworks.info/TestFD1015/DF1015FBBE447/32850
+#EXTINF:-1 group-title="BEIN SPORT POWER 8M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b7h.png" ,BEIN SPORTS 7 POWER
+http://mynetworks.info/TestFD1015/DF1015FBBE447/32849
+#EXTINF:-1 group-title="BEIN SPORT POWER 8M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b8h.png" ,BEIN SPORTS 8 POWER
+http://mynetworks.info/TestFD1015/DF1015FBBE447/32848
+#EXTINF:-1 group-title="BEIN SPORT POWER 8M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b9h.png" ,BEIN SPORTS 9 POWER
+http://mynetworks.info/TestFD1015/DF1015FBBE447/32847
+#EXTINF:-1 group-title="AD SPORTS PREMIUM" ,AD SPORT 1 Premium Low
+http://mynetworks.info/TestFD1015/DF1015FBBE447/74078
+#EXTINF:-1 group-title="AD SPORTS PREMIUM" ,AD SPORT 2 Premium Low
+http://mynetworks.info/TestFD1015/DF1015FBBE447/74079
+#EXTINF:-1 group-title="AD SPORTS PREMIUM" ,AD SPORT 1 Premium SD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/74083
+#EXTINF:-1 group-title="AD SPORTS PREMIUM" ,AD SPORT 2 Premium SD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/74084
+#EXTINF:-1 group-title="AD SPORTS PREMIUM" ,AD SPORT 1 Premium HD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/74076
+#EXTINF:-1 group-title="AD SPORTS PREMIUM" ,AD SPORT 2 Premium HD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/74077
+#EXTINF:-1 group-title="AD SPORTS PREMIUM" ,AD SPORT 1 Premium FHD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/74081
+#EXTINF:-1 group-title="AD SPORTS PREMIUM" ,AD SPORT 2 Premium FHD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/74082
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC NEWS HD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/95244
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC 1 Low
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94922
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC 2 Low
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94921
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC 3 Low
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94920
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC 4 Low
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94919
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC 5 Low
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94918
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC Extra 1 Low
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94917
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC Extra 2 Low
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94916
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC Extra 3 Low
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94915
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC 1 SD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94890
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC 2 SD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94889
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC 3 SD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94888
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC 4 SD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94887
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC 5 SD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94886
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC Extra 1 SD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94885
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC Extra 2 SD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94884
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC Extra 3 SD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94883
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC 1 HQ
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94906
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC 2 HQ
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94905
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC 3 HQ
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94904
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC 4 HQ
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94903
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC 5 HQ
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94902
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC Extra 1 HQ
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94901
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC Extra 2 HQ
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94900
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC Extra 3 HQ
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94899
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC 1 HD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94874
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC 2 HD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94873
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC 3 HD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94872
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC 4 HD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94871
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC 5 HD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94870
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC Extra 1 HD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94869
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC Extra 2 HD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94868
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC Extra 3 HD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94867
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC 1 H265 720
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94914
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC 2 H265 720
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94913
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC 3 H265 720
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94912
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC 4 H265 720
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94911
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC 5 H265 720
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94910
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC Extra 1 H265 720
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94909
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC Extra 2 H265 720
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94908
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC Extra 3 H265 720
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94907
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC 1 FHD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94898
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC 2 FHD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94897
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC 3 FHD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94896
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC 4 FHD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94895
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC 5 FHD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94894
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC Extra 1 FHD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94893
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC Extra 2 FHD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94892
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC Extra 3 FHD
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94891
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC 1 4K H265
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94882
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC 2 4K H265
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94881
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC 3 4K H265
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94880
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC 4 4K H265
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94879
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC 5 4K H265
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94878
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC Extra 1 4K H265
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94877
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC Extra 2 4K H265
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94876
+#EXTINF:-1 group-title="SSC SPORTS" ,SSC Extra 3 4K H265
+http://mynetworks.info/TestFD1015/DF1015FBBE447/94875
 
-#EXTINF:-1, group-title="Local - BEIN",Bp1ddh
-http://ddh2.cdnhks.lol/ddh2/premium98/playlist.m3u8?|referer=https://ntuplay.xyz/
-#EXTINF:-1, group-title="Local - BEIN",Bp2ddh
-http://ddh2.cdnhks.lol/ddh2/premium99/playlist.m3u8?|referer=https://ntuplay.xyz/
-#EXTINF:-1, group-title="Local - BEIN",Bp3ddh
-http://ddh2.cdnhks.lol/ddh2/premium100/playlist.m3u8?|referer=https://ntuplay.xyz/
 
-#EXTINF:-1, group-title="Local - BEIN",B1ddh
-http://ddh2.cdnhks.lol/ddh2/premium91/playlist.m3u8?|referer=https://ntuplay.xyz/
-#EXTINF:-1, group-title="Local - BEIN",B2ddh
-http://ddh2.cdnhks.lol/ddh2/premium92/playlist.m3u8?|referer=https://ntuplay.xyz/
-#EXTINF:-1, group-title="Local - BEIN",B3ddh
-http://ddh2.cdnhks.lol/ddh2/premium93/playlist.m3u8?|referer=https://ntuplay.xyz/
-#EXTINF:-1, group-title="Local - BEIN",B4ddh
-http://ddh2.cdnhks.lol/ddh2/premium94/playlist.m3u8?|referer=https://ntuplay.xyz/
-#EXTINF:-1, group-title="Local - BEIN",B5ddh
-http://ddh2.cdnhks.lol/ddh2/premium95/playlist.m3u8?|referer=https://ntuplay.xyz/
-#EXTINF:-1, group-title="Local - BEIN",B6ddh
-http://ddh2.cdnhks.lol/ddh2/premium96/playlist.m3u8?|referer=https://ntuplay.xyz/
-#EXTINF:-1, group-title="Local - BEIN",B7ddh
-http://ddh2.cdnhks.lol/ddh2/premium97/playlist.m3u8?|referer=https://ntuplay.xyz/
-
-#EXTINF:-1, group-title="Local - BEIN",Bpr1ddh2
-http://webudit.cdnhks.lol/lb/premium98/index.m3u8?|referer=https://ntuplay.xyz/
-#EXTINF:-1, group-title="Local - BEIN",Bp2ddh2
-http://webudit.cdnhks.lol/lb/premium99/index.m3u8?|referer=https://ntuplay.xyz/
-#EXTINF:-1, group-title="Local - BEIN",Br3ddh2
-http://webudit.cdnhks.lol/lb/premium100/index.m3u8?|referer=https://ntuplay.xyz/
-
-#EXTINF:-1, group-title="Local - BEIN",B1ddh2
-http://webudit.cdnhks.lol/lb/premium91/index.m3u8?|referer=https://ntuplay.xyz/
-#EXTINF:-1, group-title="Local - BEIN",B2ddh2
-http://webudit.cdnhks.lol/lb/premium92/index.m3u8?|referer=https://ntuplay.xyz/
-#EXTINF:-1, group-title="Local - BEIN",B3ddh2
-http://webudit.cdnhks.lol/lb/premium93/index.m3u8?|referer=https://ntuplay.xyz/
-#EXTINF:-1, group-title="Local - BEIN",B4ddh2
-http://webudit.cdnhks.lol/lb/premium94/index.m3u8?|referer=https://ntuplay.xyz/
-#EXTINF:-1, group-title="Local - BEIN",B5ddh2
-http://webudit.cdnhks.lol/lb/premium95/index.m3u8?|referer=https://ntuplay.xyz/
-#EXTINF:-1, group-title="Local - BEIN",B6ddh2
-http://webudit.cdnhks.lol/lb/premium96/index.m3u8?|referer=https://ntuplay.xyz/
-#EXTINF:-1, group-title="Local - BEIN",B7ddh2
-http://webudit.cdnhks.lol/lb/premium97/index.m3u8?|referer=https://ntuplay.xyz/
-
-#EXTINF:-1, group-title="Local - BEIN",Bep1index
-http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test
-#EXTINF:-1, group-title="Local - BEIN",Bep2index
-http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test
-#EXTINF:-1, group-title="Local - BEIN",Bep3index
-http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test
-
-#EXTINF:-1, group-title="Local - BEIN",Bep1mono
-http://62.182.82.104:80/L_1_PREMIUM/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1, group-title="Local - BEIN",Bep2mono
-http://62.182.82.104:80/L_2_PREMIUM/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1, group-title="Local - BEIN",Bep3mono
-http://62.182.82.104:80/L_3_PREMIUM/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="⚽️BEIN SPORT SD ☆ بي ان سبورت" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" ,SD | BE SPORTS 1
+http://ausiptv.net/u27992265387663/523979659652/215348
+#EXTINF:-1 group-title="⚽️BEIN SPORT SD ☆ بي ان سبورت" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" ,SD | BE SPORTS 2
+http://ausiptv.net/u27992265387663/523979659652/215349
+#EXTINF:-1 group-title="⚽️BEIN SPORT SD ☆ بي ان سبورت" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" ,SD | BE SPORTS 3
+http://ausiptv.net/u27992265387663/523979659652/215350
+#EXTINF:-1 group-title="⚽️BEIN SPORT SD ☆ بي ان سبورت" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" ,SD | BE SPORTS 4
+http://ausiptv.net/u27992265387663/523979659652/215351
+#EXTINF:-1 group-title="⚽️BEIN SPORT SD ☆ بي ان سبورت" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" ,SD | BE SPORTS 5
+http://ausiptv.net/u27992265387663/523979659652/215352
+#EXTINF:-1 group-title="⚽️BEIN SPORT SD ☆ بي ان سبورت" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png" ,SD | BE SPORTS 6
+http://ausiptv.net/u27992265387663/523979659652/215353
+#EXTINF:-1 group-title="⚽️BEIN SPORT SD ☆ بي ان سبورت" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" ,SD | BE SPORTS 7
+http://ausiptv.net/u27992265387663/523979659652/215354
+#EXTINF:-1 group-title="⚽️BEIN SPORT SD ☆ بي ان سبورت" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" ,SD | BE SPORTS 8
+http://ausiptv.net/u27992265387663/523979659652/215355
+#EXTINF:-1 group-title="⚽️BEIN SPORT SD ☆ بي ان سبورت" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" ,SD | BE SPORTS 9
+http://ausiptv.net/u27992265387663/523979659652/215356
+#EXTINF:-1 group-title="⚽️ALKASS  قنوات الكأس " tvg-logo="https://www.bein.com/ar/wp-content/uploads/sites/4/2020/06/Al-Kass-1-1.png" ,SP: Al Kass 1
+http://ausiptv.net/u27992265387663/523979659652/186383
+#EXTINF:-1 group-title="⚽️ALKASS  قنوات الكأس " tvg-logo="https://www.bein.com/ar/wp-content/uploads/sites/4/2020/06/Al-Kass-2-1.png" ,SP: Al Kass 2
+http://ausiptv.net/u27992265387663/523979659652/186384
+#EXTINF:-1 group-title="⚽️ALKASS  قنوات الكأس " tvg-logo="https://www.bein.com/ar/wp-content/uploads/sites/4/2020/06/Al-Kass-3-1.png" ,SP: Al Kass 3
+http://ausiptv.net/u27992265387663/523979659652/186385
+#EXTINF:-1 group-title="⚽️ALKASS  قنوات الكأس " tvg-logo="https://www.bein.com/ar/wp-content/uploads/sites/4/2020/06/Al-Kass-4-1.png" ,SP: Al Kass 4
+http://ausiptv.net/u27992265387663/523979659652/186386
+#EXTINF:-1 group-title="⚽️ALKASS  قنوات الكأس " tvg-logo="https://www.bein.com/ar/wp-content/uploads/sites/4/2020/06/Al-Kass-5-1.png" ,SP: Al Kass 5
+http://ausiptv.net/u27992265387663/523979659652/186387
+#EXTINF:-1 group-title="⚽️ALKASS  قنوات الكأس " tvg-logo="https://www.bein.com/ar/wp-content/uploads/sites/4/2020/06/Al-Kass-6-1.png" ,SP: Al Kass 6
+http://ausiptv.net/u27992265387663/523979659652/186388
 
 
-#EXTINF:-1, group-title="Local - BEIN",Beinpr1webrtc
-http://94.130.163.18:5080/WebRTCApp/streams/01_Bein_Premuim_1.m3u8
-#EXTINF:-1, group-title="Local - BEIN",Beinpr2webrtc
-http://94.130.163.18:5080/WebRTCApp/streams/01_Bein_Premuim_2.m3u8
-#EXTINF:-1, group-title="Local - BEIN",Bejnpr3webrtc
-http://94.130.163.18:5080/WebRTCApp/streams/01_Bein_Premuim_3.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 4 HEVC HD" tvg-logo="" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 4 HEVC HD
-http://obsfullhd.tv:25461/Exchnico0237/A2KaDRoOI3/7477
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 5 HEVC HD" tvg-logo="" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 5 HEVC HD
-http://obsfullhd.tv:25461/Exchnico0237/A2KaDRoOI3/7478
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 1 PREMIUM FHD+" tvg-logo="http://obsfullhd.tv:25461/images/664e959174fde9763f371b9988aa84e0.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 1 PREMIUM FHD+
-http://obsfullhd.tv:25461/Exchnico0237/A2KaDRoOI3/61143
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 2 PREMIUM FHD+" tvg-logo="http://obsfullhd.tv:25461/images/798afb26c7eebf47806683604b27f493.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 2 PREMIUM FHD+
-http://obsfullhd.tv:25461/Exchnico0237/A2KaDRoOI3/61144
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 3 PREMIUM FHD+" tvg-logo="" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 3 PREMIUM FHD+
-http://obsfullhd.tv:25461/Exchnico0237/A2KaDRoOI3/61145
-
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 1 FHD" tvg-logo="http://obsfullhd.tv:25461/images/e2529f0c7a912c7f78c2ef5f851acc5c.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 1 FHD
-http://obsfullhd.tv:25461/Exchnico0237/A2KaDRoOI3/1871
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 2 FHD" tvg-logo="http://obsfullhd.tv:25461/images/298964d6247cb19cf22cffd8377a2d2d.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 2 FHD
-http://obsfullhd.tv:25461/Exchnico0237/A2KaDRoOI3/1872
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 3 FHD" tvg-logo="Http://www.iptvforall.net/uploadlogo/prestige/Qatar/be_in_mena_sports_03_hd.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 3 FHD
-http://obsfullhd.tv:25461/Exchnico0237/A2KaDRoOI3/1874
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 4 FHD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/Qatar/be_in_mena_sports_04_hd.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 4 FHD
-http://obsfullhd.tv:25461/Exchnico0237/A2KaDRoOI3/1875
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 5 FHD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/Qatar/be_in_mena_sports_05_hd.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 5 FHD
-http://obsfullhd.tv:25461/Exchnico0237/A2KaDRoOI3/1876
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 6 FHD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/Qatar/be_in_mena_sports_06_hd.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 6 FHD
-http://obsfullhd.tv:25461/Exchnico0237/A2KaDRoOI3/1877
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 7 FHD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/Qatar/be_in_mena_sports_07_hd.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 7 FHD
-http://obsfullhd.tv:25461/Exchnico0237/A2KaDRoOI3/1878
-
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 1 HD" tvg-logo="http://obsfullhd.tv:25461/images/e2529f0c7a912c7f78c2ef5f851acc5c.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 1 HD
-http://obsfullhd.tv:25461/Exchnico0237/A2KaDRoOI3/131
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 2 HD" tvg-logo="http://obsfullhd.tv:25461/images/298964d6247cb19cf22cffd8377a2d2d.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 2 HD
-http://obsfullhd.tv:25461/Exchnico0237/A2KaDRoOI3/132
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 3 HD" tvg-logo="Http://www.iptvforall.net/uploadlogo/prestige/Qatar/be_in_mena_sports_03_hd.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 3 HD
-http://obsfullhd.tv:25461/Exchnico0237/A2KaDRoOI3/137
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 4 HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/Qatar/be_in_mena_sports_04_hd.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 4 HD
-http://obsfullhd.tv:25461/Exchnico0237/A2KaDRoOI3/138
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 5 HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/Qatar/be_in_mena_sports_05_hd.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 5 HD
-http://obsfullhd.tv:25461/Exchnico0237/A2KaDRoOI3/139
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 6 HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/Qatar/be_in_mena_sports_06_hd.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 6 HD
-http://obsfullhd.tv:25461/Exchnico0237/A2KaDRoOI3/140
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 7 HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/Qatar/be_in_mena_sports_07_hd.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 7 HD
-http://obsfullhd.tv:25461/Exchnico0237/A2KaDRoOI3/141
- 
-
-#EXTINF:-1 tvg-id="" tvg-name="||AR.KSA|| SSC SPORT 1 HD" tvg-logo="" group-title="GULF CHANNELS/قنوات خليجية ",||AR.KSA|| SSC SPORT 1 HD
-http://obsfullhd.tv:25461/Exchnico0237/A2KaDRoOI3/64189
-#EXTINF:-1 tvg-id="" tvg-name="||AR.KSA|| SSC SPORT 2 HD" tvg-logo="" group-title="GULF CHANNELS/قنوات خليجية ",||AR.KSA|| SSC SPORT 2 HD
-http://obsfullhd.tv:25461/Exchnico0237/A2KaDRoOI3/64190
-#EXTINF:-1 tvg-id="" tvg-name="||AR.KSA|| SSC SPORT 3 HD" tvg-logo="" group-title="GULF CHANNELS/قنوات خليجية ",||AR.KSA|| SSC SPORT 3 HD
-http://obsfullhd.tv:25461/Exchnico0237/A2KaDRoOI3/64191
-#EXTINF:-1 tvg-id="" tvg-name="||AR.KSA|| SSC SPORT 4 HD" tvg-logo="" group-title="GULF CHANNELS/قنوات خليجية ",||AR.KSA|| SSC SPORT 4 HD
-http://obsfullhd.tv:25461/Exchnico0237/A2KaDRoOI3/64192
-#EXTINF:-1 tvg-id="" tvg-name="||AR.KSA|| SSC SPORT 5 HD" tvg-logo="" group-title="GULF CHANNELS/قنوات خليجية ",||AR.KSA|| SSC SPORT 5 HD
-http://obsfullhd.tv:25461/Exchnico0237/A2KaDRoOI3/64193
-#EXTINF:-1 tvg-id="" tvg-name="||AR.KSA|| SSC SPORT 7 HD" tvg-logo="" group-title="GULF CHANNELS/قنوات خليجية ",||AR.KSA|| SSC SPORT 7 HD
-http://obsfullhd.tv:25461/Exchnico0237/A2KaDRoOI3/66306
-
-
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 1 PREMIUM FHD+" tvg-logo="http://obsfullhd.tv:25461/images/664e959174fde9763f371b9988aa84e0.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 1 PREMIUM FHD+
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/61143
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 2 PREMIUM FHD+" tvg-logo="http://obsfullhd.tv:25461/images/798afb26c7eebf47806683604b27f493.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 2 PREMIUM FHD+
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/61144
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 3 PREMIUM FHD+" tvg-logo="" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 3 PREMIUM FHD+
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/61145
-
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 1 PREMIUM FHD" tvg-logo="http://obsfullhd.tv:25461/images/664e959174fde9763f371b9988aa84e0.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 1 PREMIUM FHD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/47295
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 2 PREMIUM FHD" tvg-logo="http://obsfullhd.tv:25461/images/798afb26c7eebf47806683604b27f493.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 2 PREMIUM FHD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/47296
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 3 PREMIUM FHD" tvg-logo="http://obsfullhd.tv:25461/images/d17b5872a3fbb6d14b7587d3bae988da.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 3 PREMIUM FHD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/47297
-
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 1 PREMIUM HD" tvg-logo="http://obsfullhd.tv:25461/images/664e959174fde9763f371b9988aa84e0.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 1 PREMIUM HD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/47269
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 2 PREMIUM HD" tvg-logo="http://obsfullhd.tv:25461/images/798afb26c7eebf47806683604b27f493.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 2 PREMIUM HD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/47270
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 3 PREMIUM HD" tvg-logo="http://obsfullhd.tv:25461/images/d17b5872a3fbb6d14b7587d3bae988da.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 3 PREMIUM HD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/47271
-
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 1 PREMIUM SD" tvg-logo="http://obsfullhd.tv:25461/images/664e959174fde9763f371b9988aa84e0.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 1 PREMIUM SD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/47298
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 2 PREMIUM SD" tvg-logo="http://obsfullhd.tv:25461/images/798afb26c7eebf47806683604b27f493.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 2 PREMIUM SD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/47299
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 3 PREMIUM SD" tvg-logo="" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 3 PREMIUM SD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/47300
-
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 1 FHD" tvg-logo="http://obsfullhd.tv:25461/images/e2529f0c7a912c7f78c2ef5f851acc5c.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 1 FHD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/1871
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 2 FHD" tvg-logo="http://obsfullhd.tv:25461/images/298964d6247cb19cf22cffd8377a2d2d.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 2 FHD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/1872
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 3 FHD" tvg-logo="Http://www.iptvforall.net/uploadlogo/prestige/Qatar/be_in_mena_sports_03_hd.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 3 FHD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/1874
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 4 FHD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/Qatar/be_in_mena_sports_04_hd.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 4 FHD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/1875
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 5 FHD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/Qatar/be_in_mena_sports_05_hd.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 5 FHD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/1876
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 6 FHD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/Qatar/be_in_mena_sports_06_hd.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 6 FHD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/1877
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 7 FHD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/Qatar/be_in_mena_sports_07_hd.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 7 FHD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/1878
-
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 1 HD" tvg-logo="http://obsfullhd.tv:25461/images/e2529f0c7a912c7f78c2ef5f851acc5c.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 1 HD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/131
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 2 HD" tvg-logo="http://obsfullhd.tv:25461/images/298964d6247cb19cf22cffd8377a2d2d.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 2 HD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/132
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 3 HD" tvg-logo="Http://www.iptvforall.net/uploadlogo/prestige/Qatar/be_in_mena_sports_03_hd.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 3 HD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/137
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 4 HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/Qatar/be_in_mena_sports_04_hd.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 4 HD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/138
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 5 HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/Qatar/be_in_mena_sports_05_hd.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 5 HD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/139
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 6 HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/Qatar/be_in_mena_sports_06_hd.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 6 HD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/140
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 7 HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/Qatar/be_in_mena_sports_07_hd.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 7 HD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/141
-
-
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 1 HEVC" tvg-logo="http://obsfullhd.tv:25461/images/e2529f0c7a912c7f78c2ef5f851acc5c.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 1 HEVC
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/47275
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 3 HEVC" tvg-logo="" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 3 HEVC
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/47277
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 4 HEVC" tvg-logo="" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 4 HEVC
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/47278
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 5 HEVC" tvg-logo="" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 5 HEVC
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/47279
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 6 HEVC" tvg-logo="" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORTS 6 HEVC
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/47280
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORT XTRA 1 HD" tvg-logo="http://obsfullhd.tv:25461/images/90213f4c106bfa0f43ee8f41a0be5cf6.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORT XTRA 1 HD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/47292
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORT XTRA 2 HD" tvg-logo="http://obsfullhd.tv:25461/images/3432e54ba3117fe83fff506763f87b3f.png" group-title="BEIN SPORT ARABE CHANNELS/قنوات بين سبورت عربية",||AR.BEIN|| BEIN SPORT XTRA 2 HD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/47293
-
-
-#EXTINF:-1 tvg-id="" tvg-name="||AR.KSA|| SSC SPORT 1 HD" tvg-logo="" group-title="GULF CHANNELS/قنوات خليجية ",||AR.KSA|| SSC SPORT 1 HD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/64189
-#EXTINF:-1 tvg-id="" tvg-name="||AR.KSA|| SSC SPORT 2 HD" tvg-logo="" group-title="GULF CHANNELS/قنوات خليجية ",||AR.KSA|| SSC SPORT 2 HD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/64190
-#EXTINF:-1 tvg-id="" tvg-name="||AR.KSA|| SSC SPORT 3 HD" tvg-logo="" group-title="GULF CHANNELS/قنوات خليجية ",||AR.KSA|| SSC SPORT 3 HD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/64191
-#EXTINF:-1 tvg-id="" tvg-name="||AR.KSA|| SSC SPORT 4 HD" tvg-logo="" group-title="GULF CHANNELS/قنوات خليجية ",||AR.KSA|| SSC SPORT 4 HD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/64192
-#EXTINF:-1 tvg-id="" tvg-name="||AR.KSA|| SSC SPORT 5 HD" tvg-logo="" group-title="GULF CHANNELS/قنوات خليجية ",||AR.KSA|| SSC SPORT 5 HD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/64193
-#EXTINF:-1 tvg-id="" tvg-name="||AR.KSA|| SSC SPORT 7 HD" tvg-logo="" group-title="GULF CHANNELS/قنوات خليجية ",||AR.KSA|| SSC SPORT 7 HD
-http://obsfullhd.tv:25461/@teamvipertv/jUtCxjKFY9AW/66306
+#EXTINF:-1 group-title="Bein Sports HD ⚽ بين سبورت جودة متوسطة" tvg-logo="https://i.ibb.co/85mHBjx/Asset-59-26x.png" tvg-id="beinsportsnews.qa" ,beIN Sports News HD
+http://forevertv.me:8080/Azzam1/123456/142732
+#EXTINF:-1 group-title="Bein Sports HD ⚽ بين سبورت جودة متوسطة" tvg-logo="https://i.ibb.co/sKcyGZ7/Asset-16-26x.png" tvg-id="beinsports1.qa" ,beIN SPORTS 1 HD
+http://forevertv.me:8080/Azzam1/123456/142736
+#EXTINF:-1 group-title="Bein Sports HD ⚽ بين سبورت جودة متوسطة" tvg-logo="https://i.ibb.co/ftCy16h/Asset-15-26x.png" tvg-id="beinsports2.qa" ,beIN SPORTS 2 HD
+http://forevertv.me:8080/Azzam1/123456/142737
+#EXTINF:-1 group-title="Bein Sports HD ⚽ بين سبورت جودة متوسطة" tvg-logo="https://i.ibb.co/ThSLhWq/Asset-14-26x.png" tvg-id="beinsports3.qa" ,beIN SPORTS 3 HD
+http://forevertv.me:8080/Azzam1/123456/142738
+#EXTINF:-1 group-title="Bein Sports HD ⚽ بين سبورت جودة متوسطة" tvg-logo="https://i.ibb.co/h8whrfS/Asset-13-26x.png" tvg-id="beinsports4.qa" ,beIN SPORTS 4 HD
+http://forevertv.me:8080/Azzam1/123456/142739
+#EXTINF:-1 group-title="Bein Sports HD ⚽ بين سبورت جودة متوسطة" tvg-logo="https://i.ibb.co/SmM8mWr/Asset-12-26x.png" tvg-id="beinsports5.qa" ,beIN SPORTS 5 HD
+http://forevertv.me:8080/Azzam1/123456/142740
+#EXTINF:-1 group-title="Bein Sports HD ⚽ بين سبورت جودة متوسطة" tvg-logo="https://i.ibb.co/ncVyMnB/Asset-11-26x.png" tvg-id="beinsports6.qa" ,beIN SPORTS 6 HD
+http://forevertv.me:8080/Azzam1/123456/142741
+#EXTINF:-1 group-title="Bein Sports HD ⚽ بين سبورت جودة متوسطة" tvg-logo="https://i.ibb.co/yyZLTf4/Asset-10-26x.png" tvg-id="beinsports7.qa" ,beIN SPORTS 7 HD
+http://forevertv.me:8080/Azzam1/123456/142742
+#EXTINF:-1 group-title="Bein Sports HD ⚽ بين سبورت جودة متوسطة" tvg-logo="https://i.ibb.co/10PQGpP/Asset-67-6x.png" tvg-id="beinsports1premium.qa" ,beIN SPORTS 8 HD
+http://forevertv.me:8080/Azzam1/123456/142733
+#EXTINF:-1 group-title="Bein Sports HD ⚽ بين سبورت جودة متوسطة" tvg-logo="https://i.ibb.co/bFd12HC/Asset-65-6x.png" tvg-id="beinsports2premium.qa" ,beIN SPORTS 9 HD
+http://forevertv.me:8080/Azzam1/123456/142734
+#EXTINF:-1 group-title="Bein Sports HD ⚽ بين سبورت جودة متوسطة" tvg-logo="https://i.ibb.co/1MSNMgm/Asset-66-6x.png" tvg-id="beinsportsnba.qa" ,beIN SPORTS NBA HD
+http://forevertv.me:8080/Azzam1/123456/142745
+#EXTINF:-1 group-title="Bein Sports HD ⚽ بين سبورت جودة متوسطة" tvg-logo="https://i.ibb.co/zNskkJZ/Asset-9-26x.png" ,beIN Sport EXTRA 1 HD
+http://forevertv.me:8080/Azzam1/123456/421893
+#EXTINF:-1 group-title="Bein Sports HD ⚽ بين سبورت جودة متوسطة" tvg-logo="https://i.ibb.co/XYzZ68m/Asset-8-26x.png" ,beIN Sport EXTRA 2 HD
+http://forevertv.me:8080/Azzam1/123456/421894
+#EXTINF:-1 group-title="Bein Sports HD ⚽ بين سبورت جودة متوسطة" tvg-logo="https://i.ibb.co/dbr1RDs/Asset-68-6x.png" tvg-id="beinsports3premium.qa" ,beIN Sport EXTRA 3 HD
+http://forevertv.me:8080/Azzam1/123456/142735
+#EXTINF:-1 group-title="Bein Sports HD ⚽ بين سبورت جودة متوسطة" tvg-logo="https://i.ibb.co/mFK2FHJ/Asset-22-26x.png" tvg-id="beinsports1en.qa" ,beIN SPORTS 1 English HD
+http://forevertv.me:8080/Azzam1/123456/142743
+#EXTINF:-1 group-title="Bein Sports HD ⚽ بين سبورت جودة متوسطة" tvg-logo="https://i.ibb.co/4psXsZq/Asset-21-26x.png" tvg-id="beinsports2en.qa" ,beIN SPORTS 2 English HD
+http://forevertv.me:8080/Azzam1/123456/142744
+#EXTINF:-1 group-title="Bein Sports HD ⚽ بين سبورت جودة متوسطة" tvg-logo="https://i.ibb.co/hHBXCgL/Asset-25-26x.png" tvg-id="beinsports1fr.qa" ,beIN SPORTS 1 French HD
+http://forevertv.me:8080/Azzam1/123456/142746
+#EXTINF:-1 group-title="Bein Sports HD ⚽ بين سبورت جودة متوسطة" tvg-logo="https://i.ibb.co/MgLQfTm/Asset-24-26x.png" tvg-id="beinsports2fr.qa" ,beIN SPORTS 2 French HD
+http://forevertv.me:8080/Azzam1/123456/142747
+#EXTINF:-1 group-title="Bein Sports HD ⚽ بين سبورت جودة متوسطة" tvg-logo="https://i.ibb.co/kcgVRGs/Asset-23-26x.png" tvg-id="beinsports3fr.qa" ,beIN SPORTS 3 French HD
+http://forevertv.me:8080/Azzam1/123456/142748
+#EXTINF:-1 group-title="Bein Sports HD- B ⚽ بين سبورت جودة متوسطة" tvg-logo="https://i.ibb.co/QrKdTmk/Asset-19-26x.png" tvg-id="beinsports1premium.qa" ,beIN SPORT 01 HD -B
+http://forevertv.me:8080/Azzam1/123456/384097
+#EXTINF:-1 group-title="Bein Sports HD- B ⚽ بين سبورت جودة متوسطة" tvg-logo="https://i.ibb.co/WDhcbHv/Asset-18-26x.png" tvg-id="beinsports2premium.qa" ,beIN SPORT 02 HD -B
+http://forevertv.me:8080/Azzam1/123456/384096
+#EXTINF:-1 group-title="Bein Sports HD- B ⚽ بين سبورت جودة متوسطة" tvg-logo="https://i.ibb.co/sKcyGZ7/Asset-16-26x.png" tvg-id="beinsports1.qa" ,beIN SPORT 03 HD -B
+http://forevertv.me:8080/Azzam1/123456/384094
+#EXTINF:-1 group-title="Bein Sports HD- B ⚽ بين سبورت جودة متوسطة" tvg-logo="https://i.ibb.co/ftCy16h/Asset-15-26x.png" tvg-id="beinsports2.qa" ,beIN SPORT 04 HD -B
+http://forevertv.me:8080/Azzam1/123456/384093
+#EXTINF:-1 group-title="Bein Sports HD- B ⚽ بين سبورت جودة متوسطة" tvg-logo="https://i.ibb.co/ThSLhWq/Asset-14-26x.png" tvg-id="beinsports3.qa" ,beIN SPORT 05 HD -B
+http://forevertv.me:8080/Azzam1/123456/384092
+#EXTINF:-1 group-title="Bein Sports HD- B ⚽ بين سبورت جودة متوسطة" tvg-logo="https://i.ibb.co/h8whrfS/Asset-13-26x.png" tvg-id="beinsports4.qa" ,beIN SPORT 06 HD -B
+http://forevertv.me:8080/Azzam1/123456/384091
+#EXTINF:-1 group-title="Bein Sports HD- B ⚽ بين سبورت جودة متوسطة" tvg-logo="https://i.ibb.co/SmM8mWr/Asset-12-26x.png" tvg-id="beinsports5.qa" ,beIN SPORT 07 HD -B
+http://forevertv.me:8080/Azzam1/123456/384090
+#EXTINF:-1 group-title="Bein Sports HD- B ⚽ بين سبورت جودة متوسطة" tvg-logo="https://i.ibb.co/ncVyMnB/Asset-11-26x.png" tvg-id="beinsports6.qa" ,beIN SPORT 08 HD -B
+http://forevertv.me:8080/Azzam1/123456/384089
+#EXTINF:-1 group-title="Bein Sports HD- B ⚽ بين سبورت جودة متوسطة" tvg-logo="https://i.ibb.co/yyZLTf4/Asset-10-26x.png" tvg-id="beinsports7.qa" ,beIN SPORT 09 HD -B
+http://forevertv.me:8080/Azzam1/123456/384088
+#EXTINF:-1 group-title="Bein Sports HD- B ⚽ بين سبورت جودة متوسطة" tvg-logo="https://i.ibb.co/qMbLKjd/Asset-17-26x.png" tvg-id="beinsports3premium.qa" ,beIN SPORTS 3 EXTRA HD -B
+http://forevertv.me:8080/Azzam1/123456/384095
+#EXTINF:-1 group-title="Bein Sports SD ⚽ بين سبورت جودة منخفضة" tvg-logo="https://i.ibb.co/85mHBjx/Asset-59-26x.png" tvg-id="beinsportsnewsar.qa" ,beIN Sports News SD
+http://forevertv.me:8080/Azzam1/123456/142751
+#EXTINF:-1 group-title="Bein Sports SD ⚽ بين سبورت جودة منخفضة" tvg-logo="https://i.ibb.co/sKcyGZ7/Asset-16-26x.png" tvg-id="beinsports1ar.qa" ,beIN SPORTS 1 SD
+http://forevertv.me:8080/Azzam1/123456/142755
+#EXTINF:-1 group-title="Bein Sports SD ⚽ بين سبورت جودة منخفضة" tvg-logo="https://i.ibb.co/ftCy16h/Asset-15-26x.png" tvg-id="beinsports2ar.qa" ,beIN SPORTS 2 SD
+http://forevertv.me:8080/Azzam1/123456/142756
+#EXTINF:-1 group-title="Bein Sports SD ⚽ بين سبورت جودة منخفضة" tvg-logo="https://i.ibb.co/ThSLhWq/Asset-14-26x.png" tvg-id="beinsports3ar.qa" ,beIN SPORTS 3 SD
+http://forevertv.me:8080/Azzam1/123456/142757
+#EXTINF:-1 group-title="Bein Sports SD ⚽ بين سبورت جودة منخفضة" tvg-logo="https://i.ibb.co/h8whrfS/Asset-13-26x.png" tvg-id="beinsports4ar.qa" ,beIN SPORTS 4 SD
+http://forevertv.me:8080/Azzam1/123456/142758
+#EXTINF:-1 group-title="Bein Sports SD ⚽ بين سبورت جودة منخفضة" tvg-logo="https://i.ibb.co/SmM8mWr/Asset-12-26x.png" tvg-id="beinsports5ar.qa" ,beIN SPORTS 5 SD
+http://forevertv.me:8080/Azzam1/123456/142759
+#EXTINF:-1 group-title="Bein Sports SD ⚽ بين سبورت جودة منخفضة" tvg-logo="https://i.ibb.co/ncVyMnB/Asset-11-26x.png" tvg-id="beinsports6ar.qa" ,beIN SPORTS 6 SD
+http://forevertv.me:8080/Azzam1/123456/142760
+#EXTINF:-1 group-title="Bein Sports SD ⚽ بين سبورت جودة منخفضة" tvg-logo="https://i.ibb.co/yyZLTf4/Asset-10-26x.png" tvg-id="beinsports7ar.qa" ,beIN SPORTS 7 SD
+http://forevertv.me:8080/Azzam1/123456/142761
+#EXTINF:-1 group-title="Bein Sports SD ⚽ بين سبورت جودة منخفضة" tvg-logo="https://i.ibb.co/10PQGpP/Asset-67-6x.png" tvg-id="beinsports1premiumar.qa" ,beIN SPORTS 8 SD
+http://forevertv.me:8080/Azzam1/123456/142752
+#EXTINF:-1 group-title="Bein Sports SD ⚽ بين سبورت جودة منخفضة" tvg-logo="https://i.ibb.co/bFd12HC/Asset-65-6x.png" tvg-id="beinsports2premiumar.qa" ,beIN SPORTS 9 SD
+http://forevertv.me:8080/Azzam1/123456/142753
+#EXTINF:-1 group-title="Bein Sports SD ⚽ بين سبورت جودة منخفضة" tvg-logo="https://i.ibb.co/1MSNMgm/Asset-66-6x.png" tvg-id="beinsportsnba.qa" ,beIN SPORTS NBA SD
+http://forevertv.me:8080/Azzam1/123456/142764
+#EXTINF:-1 group-title="Bein Sports SD ⚽ بين سبورت جودة منخفضة" tvg-logo="https://i.ibb.co/zNskkJZ/Asset-9-26x.png" ,beIN Sport EXTRA 1 SD
+http://forevertv.me:8080/Azzam1/123456/421895
+#EXTINF:-1 group-title="Bein Sports SD ⚽ بين سبورت جودة منخفضة" tvg-logo="https://i.ibb.co/XYzZ68m/Asset-8-26x.png" ,beIN Sport EXTRA 2 SD
+http://forevertv.me:8080/Azzam1/123456/421896
+#EXTINF:-1 group-title="Bein Sports SD ⚽ بين سبورت جودة منخفضة" tvg-logo="https://i.ibb.co/dbr1RDs/Asset-68-6x.png" tvg-id="beinsports3premiumar.qa" ,beIN Sport EXTRA 3 SD
+http://forevertv.me:8080/Azzam1/123456/142754
+#EXTINF:-1 group-title="Bein Sports SD ⚽ بين سبورت جودة منخفضة" tvg-logo="https://i.ibb.co/mFK2FHJ/Asset-22-26x.png" tvg-id="beinsports1en.qa" ,beIN SPORTS 1 English SD
+http://forevertv.me:8080/Azzam1/123456/142762
+#EXTINF:-1 group-title="Bein Sports SD ⚽ بين سبورت جودة منخفضة" tvg-logo="https://i.ibb.co/4psXsZq/Asset-21-26x.png" tvg-id="beinsports2enar.qa" ,BeIN SPORTS 2 English SD
+http://forevertv.me:8080/Azzam1/123456/142763
+#EXTINF:-1 group-title="Bein Sports SD ⚽ بين سبورت جودة منخفضة" tvg-logo="https://i.ibb.co/hHBXCgL/Asset-25-26x.png" tvg-id="beinsports1fr.qa" ,BeIN SPORTS 1 French SD
+http://forevertv.me:8080/Azzam1/123456/142765
+#EXTINF:-1 group-title="Bein Sports SD ⚽ بين سبورت جودة منخفضة" tvg-logo="https://i.ibb.co/MgLQfTm/Asset-24-26x.png" tvg-id="beinsports2fr.qa" ,beIN SPORTS 2 French SD
+http://forevertv.me:8080/Azzam1/123456/142766
+#EXTINF:-1 group-title="Bein Sports SD ⚽ بين سبورت جودة منخفضة" tvg-logo="https://i.ibb.co/kcgVRGs/Asset-23-26x.png" tvg-id="beinsports3fr.qa" ,beIN SPORTS 3 French SD
+http://forevertv.me:8080/Azzam1/123456/142767
+#EXTINF:-1 group-title="Bein Sports SD -B ⚽ بين سبورت جودة منخفضة" tvg-logo="https://i.ibb.co/QrKdTmk/Asset-19-26x.png" tvg-id="beinsports1premium.qa" ,beIN SPORT 01 SD -B
+http://forevertv.me:8080/Azzam1/123456/384107
+#EXTINF:-1 group-title="Bein Sports SD -B ⚽ بين سبورت جودة منخفضة" tvg-logo="https://i.ibb.co/WDhcbHv/Asset-18-26x.png" tvg-id="beinsports2premium.qa" ,beIN SPORT 02 SD -B
+http://forevertv.me:8080/Azzam1/123456/384106
+#EXTINF:-1 group-title="Bein Sports SD -B ⚽ بين سبورت جودة منخفضة" tvg-logo="https://i.ibb.co/ThSLhWq/Asset-14-26x.png" tvg-id="beinsports1.qa" ,beIN SPORT 03 SD -B
+http://forevertv.me:8080/Azzam1/123456/384104
+#EXTINF:-1 group-title="Bein Sports SD -B ⚽ بين سبورت جودة منخفضة" tvg-id="beinsports2.qa" ,beIN SPORT 04 SD -B
+http://forevertv.me:8080/Azzam1/123456/384103
+#EXTINF:-1 group-title="Bein Sports SD -B ⚽ بين سبورت جودة منخفضة" tvg-logo="https://i.ibb.co/ThSLhWq/Asset-14-26x.png" tvg-id="beinsports3.qa" ,beIN SPORT 05 SD -B
+http://forevertv.me:8080/Azzam1/123456/384102
+#EXTINF:-1 group-title="Bein Sports SD -B ⚽ بين سبورت جودة منخفضة" tvg-logo="https://i.ibb.co/h8whrfS/Asset-13-26x.png" tvg-id="beinsports4.qa" ,beIN SPORT 06 SD -B
+http://forevertv.me:8080/Azzam1/123456/384101
+#EXTINF:-1 group-title="Bein Sports SD -B ⚽ بين سبورت جودة منخفضة" tvg-logo="https://i.ibb.co/SmM8mWr/Asset-12-26x.png" tvg-id="beinsports5.qa" ,beIN SPORT 07 SD -B
+http://forevertv.me:8080/Azzam1/123456/384100
+#EXTINF:-1 group-title="Bein Sports SD -B ⚽ بين سبورت جودة منخفضة" tvg-logo="https://i.ibb.co/ncVyMnB/Asset-11-26x.png" tvg-id="beinsports6.qa" ,beIN SPORT 08 SD -B
+http://forevertv.me:8080/Azzam1/123456/384099
+#EXTINF:-1 group-title="Bein Sports SD -B ⚽ بين سبورت جودة منخفضة" tvg-logo="https://i.ibb.co/yyZLTf4/Asset-10-26x.png" tvg-id="beinsports7.qa" ,beIN SPORT 09 SD -B
+http://forevertv.me:8080/Azzam1/123456/384098
+#EXTINF:-1 group-title="Bein Sports SD -B ⚽ بين سبورت جودة منخفضة" tvg-logo="https://i.ibb.co/qMbLKjd/Asset-17-26x.png" tvg-id="beinsports3premium.qa" ,beIN SPORTS 3 EXTRA 03 SD -B
+http://forevertv.me:8080/Azzam1/123456/384105
+#EXTINF:-1 group-title="SSC FHD ⚽" tvg-logo="https://i.ibb.co/sy90kY5/Asset-7-18x.png" ,SSC  NEWS FHD
+http://forevertv.me:8080/Azzam1/123456/382511
+#EXTINF:-1 group-title="SSC FHD ⚽" tvg-logo="https://i.ibb.co/FB1b0BW/Asset-6-18x.png" ,SSC1  FHD
+http://forevertv.me:8080/Azzam1/123456/382512
+#EXTINF:-1 group-title="SSC FHD ⚽" tvg-logo="https://i.ibb.co/85qj3zC/Asset-5-18x.png" ,SSC2  FHD
+http://forevertv.me:8080/Azzam1/123456/382513
+#EXTINF:-1 group-title="SSC FHD ⚽" tvg-logo="https://i.ibb.co/VgVwJ72/Asset-4-18x.png" ,SSC3  FHD
+http://forevertv.me:8080/Azzam1/123456/382514
+#EXTINF:-1 group-title="SSC FHD ⚽" tvg-logo="https://i.ibb.co/G5rfb83/Asset-3-18x.png" ,SSC4  FHD
+http://forevertv.me:8080/Azzam1/123456/382515
+#EXTINF:-1 group-title="SSC FHD ⚽" tvg-logo="https://i.ibb.co/F4TLKwF/Asset-10-18x.png" ,SSC5  FHD
+http://forevertv.me:8080/Azzam1/123456/382516
+#EXTINF:-1 group-title="SSC FHD ⚽" tvg-logo="https://i.ibb.co/LnPRRs8/Asset-8-18x.png" ,SSC EXTRA 1 FHD
+http://forevertv.me:8080/Azzam1/123456/382508
+#EXTINF:-1 group-title="SSC FHD ⚽" tvg-logo="https://i.ibb.co/8gjr2cC/Asset-2-18x.png" ,SSC EXTRA 2 FHD
+http://forevertv.me:8080/Azzam1/123456/382509
+#EXTINF:-1 group-title="SSC FHD ⚽" tvg-logo="https://i.ibb.co/r4XWPYt/Asset-1-18x.png" ,SSC EXTRA 3 FHD
+http://forevertv.me:8080/Azzam1/123456/382510
+#EXTINF:-1 group-title="SSC FHD ⚽" tvg-logo="https://i.ibb.co/FB1b0BW/Asset-6-18x.png" ,SA- SSC1 Multi Sound
+http://forevertv.me:8080/Azzam1/123456/421938
+#EXTINF:-1 group-title="SSC FHD ⚽" tvg-logo="https://i.ibb.co/85qj3zC/Asset-5-18x.png" ,SA- SSC 2 Multi Sound
+http://forevertv.me:8080/Azzam1/123456/421939
+#EXTINF:-1 group-title="SSC FHD ⚽" tvg-logo="https://i.ibb.co/VgVwJ72/Asset-4-18x.png" ,SA- SSC 3 Multi Sound
+http://forevertv.me:8080/Azzam1/123456/421940
+#EXTINF:-1 group-title="SSC FHD ⚽" tvg-logo="https://i.ibb.co/G5rfb83/Asset-3-18x.png" ,SA- SSC 4 Multi Sound
+http://forevertv.me:8080/Azzam1/123456/421941
+#EXTINF:-1 group-title="SSC FHD ⚽" tvg-logo="https://i.ibb.co/F4TLKwF/Asset-10-18x.png" ,SA- SSC 5 Multi Sound
+http://forevertv.me:8080/Azzam1/123456/421942
+#EXTINF:-1 group-title="SSC FHD ⚽" tvg-logo="https://i.ibb.co/LnPRRs8/Asset-8-18x.png" ,SA- SSC-EXTRA 1 Multi Sound
+http://forevertv.me:8080/Azzam1/123456/421943
+#EXTINF:-1 group-title="SSC FHD ⚽" tvg-logo="https://i.ibb.co/8gjr2cC/Asset-2-18x.png" ,SA- SSC-EXTRA 2 Multi Sound
+http://forevertv.me:8080/Azzam1/123456/421945
+#EXTINF:-1 group-title="SSC FHD ⚽" tvg-logo="https://i.ibb.co/r4XWPYt/Asset-1-18x.png" ,SA- SSC-EXTRA 3 Multi Sound
+http://forevertv.me:8080/Azzam1/123456/421944
+#EXTINF:-1 group-title="Bein Alkass ⚽ بين الكاس" tvg-logo="https://i.ibb.co/j3Bwmzy/Asset-7-26x.png" ,Bein Alkass 1 HD
+http://forevertv.me:8080/Azzam1/123456/186853
+#EXTINF:-1 group-title="Bein Alkass ⚽ بين الكاس" tvg-logo="https://i.ibb.co/bvQ7cSK/Asset-6-26x.png" ,Bein Alkass 2 HD
+http://forevertv.me:8080/Azzam1/123456/186854
+#EXTINF:-1 group-title="Bein Alkass ⚽ بين الكاس" tvg-logo="https://i.ibb.co/JxmYBQM/Asset-5-26x.png" ,Bein Alkass 3 HD
+http://forevertv.me:8080/Azzam1/123456/356598
+#EXTINF:-1 group-title="Bein Alkass ⚽ بين الكاس" tvg-logo="https://i.ibb.co/rxNNbQD/Asset-4-26x.png" ,Bein Alkass 4 HD
+http://forevertv.me:8080/Azzam1/123456/186856
+#EXTINF:-1 group-title="Bein Alkass ⚽ بين الكاس" tvg-logo="https://i.ibb.co/L52rM4f/Asset-3-26x.png" ,Bein Alkass 5 HD
+http://forevertv.me:8080/Azzam1/123456/186857
+#EXTINF:-1 group-title="BeIN AFC⚽" tvg-logo="https://i.ibb.co/YhZtDKY/Asset-64-26x.png" ,BeIN AFC 4K
+http://forevertv.me:8080/Azzam1/123456/385284
+#EXTINF:-1 group-title="BeIN AFC⚽" tvg-logo="https://i.ibb.co/YhZtDKY/Asset-64-26x.png" ,BeIN AFC FHD
+http://forevertv.me:8080/Azzam1/123456/385287
+#EXTINF:-1 group-title="BeIN AFC⚽" tvg-logo="https://i.ibb.co/YhZtDKY/Asset-64-26x.png" ,BeIN AFC HD
+http://forevertv.me:8080/Azzam1/123456/385285
+#EXTINF:-1 group-title="BeIN AFC⚽" tvg-logo="https://i.ibb.co/YhZtDKY/Asset-64-26x.png" ,BeIN AFC SD
+http://forevertv.me:8080/Azzam1/123456/385286
+#EXTINF:-1 group-title="BeIN AFC - B⚽" tvg-logo="https://i.ibb.co/YhZtDKY/Asset-64-26x.png" ,beIN SPORT AFC-4k
+http://forevertv.me:8080/Azzam1/123456/385273
+#EXTINF:-1 group-title="BeIN AFC - B⚽" tvg-logo="https://i.ibb.co/YhZtDKY/Asset-64-26x.png" ,beIN SPORT AFC-FHD
+http://forevertv.me:8080/Azzam1/123456/385271
+#EXTINF:-1 group-title="BeIN AFC - B⚽" tvg-logo="https://i.ibb.co/YhZtDKY/Asset-64-26x.png" ,beIN SPORT AFC-HD
+http://forevertv.me:8080/Azzam1/123456/385272
+#EXTINF:-1 group-title="BeIN AFC - B⚽" tvg-logo="https://i.ibb.co/YhZtDKY/Asset-64-26x.png" ,beIN SPORT AFC-SD
+http://forevertv.me:8080/Azzam1/123456/385274
