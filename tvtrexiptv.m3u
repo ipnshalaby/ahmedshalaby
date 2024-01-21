@@ -1,1 +1,186 @@
+#EXTM3U
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/ON-TIME-SPORTS.jpeg" ,AR| ON TIME SPORT
+http://tv.trexiptv.com/00112233/00112233/1088914
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/ON-TIME-SPORTS-2.png" ,AR| ON TIME SPORTS 2
+http://tv.trexiptv.com/00112233/00112233/1088916
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/abudhabisports1.png" ,AR| ABU DHABI SPORT 1
+http://tv.trexiptv.com/00112233/00112233/591602
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ad_sport_1.png" ,AR| ABU DHABI SPORT1 UHD
+http://tv.trexiptv.com/00112233/00112233/993335
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/AD_SPORT_2.png" ,AR| ABU DHABI SPORT2 UHD
+http://tv.trexiptv.com/00112233/00112233/993338
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS1.png" ,AR| BEIN SPORTS 1 AFCON
+http://tv.trexiptv.com/00112233/00112233/1424746
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS2.png" ,AR| BEIN SPORTS 2 AFCON
+http://tv.trexiptv.com/00112233/00112233/1424743
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS-1-ASIANCUP.png" ,AR| BEIN SPORTS 1 ASIANCUP
+http://tv.trexiptv.com/00112233/00112233/1424739
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS-2-ASIANCUP.png" ,AR| BEIN SPORTS 2 ASIANCUP
+http://tv.trexiptv.com/00112233/00112233/1424735
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS-MAX1.png" ,AR| BEIN SPORTS AFCON 1 SD
+http://tv.trexiptv.com/00112233/00112233/1414638
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS-MAX1.png" ,AR| BEIN SPORTS AFCON 1 HD
+http://tv.trexiptv.com/00112233/00112233/1414637
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS-MAX2.png" ,AR| BEIN SPORTS AFCON 2 HD
+http://tv.trexiptv.com/00112233/00112233/1414640
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS-MAX2.png" ,AR| BEIN SPORTS AFCON 2 SD
+http://tv.trexiptv.com/00112233/00112233/1414641
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS-MAX3.png" ,AR| BEIN SPORTS AFCON 3 HD
+http://tv.trexiptv.com/00112233/00112233/1414643
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS-MAX3.png" ,AR| BEIN SPORTS AFCON 3 SD
+http://tv.trexiptv.com/00112233/00112233/1414644
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS-MAX4.png" ,AR| BEIN SPORTS AFCON 4 HD
+http://tv.trexiptv.com/00112233/00112233/1414646
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS-MAX4.png" ,AR| BEIN SPORTS AFCON 4 SD
+http://tv.trexiptv.com/00112233/00112233/1414647
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/TOD.png" ,AR| TOD 360 HD ( EVENT ONLY )
+http://tv.trexiptv.com/00112233/00112233/1347223
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/piconsnew/beinsport1hd.png" tvg-id="beINSports1En.qa" ,AR| BEIN SPORTS 1 HD
+http://tv.trexiptv.com/00112233/00112233/1330437
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/piconsnew/beinsports2.png" tvg-id="beINSports2En.qa" ,AR| BEIN SPORTS 2 HD
+http://tv.trexiptv.com/00112233/00112233/1330438
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/piconsnew/beinsports3.png" tvg-id="beINSports3En.qa" ,AR| BEIN SPORTS 3 HD
+http://tv.trexiptv.com/00112233/00112233/1330439
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/piconsnew/beinsports4.png" tvg-id="beINSports4En.qa" ,AR| BEIN SPORTS 4 HD
+http://tv.trexiptv.com/00112233/00112233/1330440
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/piconsnew/beinsports5.png" tvg-id="beINSports5En.qa" ,AR| BEIN SPORTS 5 HD
+http://tv.trexiptv.com/00112233/00112233/1330441
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/piconsnew/beinsports6.png" tvg-id="beINSports6En.qa" ,AR| BEIN SPORTS 6 HD
+http://tv.trexiptv.com/00112233/00112233/1330442
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/piconsnew/beinsports7.png" tvg-id="beINSports7En.qa" ,AR| BEIN SPORTS 7 HD
+http://tv.trexiptv.com/00112233/00112233/1330443
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/piconsnew/beinsportsxtra1.png" tvg-id="BeinSportsExtra1.qa" ,AR| BEIN SPORTS 1 XTRA HD
+http://tv.trexiptv.com/00112233/00112233/1330446
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/piconsnew/beinsportsxtra2.png" tvg-id="BeinSportsExtra2.qa" ,AR| BEIN SPORTS 2 XTRA HD
+http://tv.trexiptv.com/00112233/00112233/1330447
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-XTRA.png" ,AR| BEIN SPORTS 3 XTRA HD
+http://tv.trexiptv.com/00112233/00112233/1330448
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/piconsnew/beinsportshd1.png" tvg-id="beINSports1En.qa" ,AR| BEIN SPORTS 1 LQ
+http://tv.trexiptv.com/00112233/00112233/1330474
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/piconsnew/beinsportshd2.png" tvg-id="beINSports2En.qa" ,AR| BEIN SPORTS 2 LQ
+http://tv.trexiptv.com/00112233/00112233/1330475
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/piconsnew/beinsportshd3.png" tvg-id="beINSports3En.qa" ,AR| BEIN SPORTS 3 LQ
+http://tv.trexiptv.com/00112233/00112233/1330476
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/piconsnew/beinsportshd4.png" tvg-id="beINSports4En.qa" ,AR| BEIN SPORTS 4 LQ
+http://tv.trexiptv.com/00112233/00112233/1330477
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/piconsnew/beinsports5.png" tvg-id="beINSports5En.qa" ,AR| BEIN SPORTS 5 LQ
+http://tv.trexiptv.com/00112233/00112233/1330478
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/piconsnew/beinsports6.png" tvg-id="beINSports6En.qa" ,AR| BEIN SPORTS 6 LQ
+http://tv.trexiptv.com/00112233/00112233/1330479
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/piconsnew/beinsports7.png" tvg-id="beINSports7En.qa" ,AR| BEIN SPORTS 7 LQ
+http://tv.trexiptv.com/00112233/00112233/1330480
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/piconsnew/beinsportsxtra1.png" tvg-id="BeinSportsExtra1.qa" ,AR| BEIN SPORTS 1 XTRA LQ
+http://tv.trexiptv.com/00112233/00112233/1330483
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/piconsnew/beinsportsxtra2.png" tvg-id="BeinSportsExtra2.qa" ,AR| BEIN SPORTS 2 XTRA LQ
+http://tv.trexiptv.com/00112233/00112233/1330484
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-XTRA.png" ,AR| BEIN SPORTS 3 XTRA LQ
+http://tv.trexiptv.com/00112233/00112233/1330485
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/TOD.png" ,AR| TOD 360 SD ( EVENT ONLY )
+http://tv.trexiptv.com/00112233/00112233/1347224
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/piconsnew/beinsportshd1.png" tvg-id="beINSports1En.qa" ,AR| BEIN SPORTS 1 SD
+http://tv.trexiptv.com/00112233/00112233/1330457
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/piconsnew/beinsportshd2.png" tvg-id="beINSports2En.qa" ,AR| BEIN SPORTS 2 SD
+http://tv.trexiptv.com/00112233/00112233/1330458
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/piconsnew/beinsportshd3.png" tvg-id="beINSports3En.qa" ,AR| BEIN SPORTS 3 SD
+http://tv.trexiptv.com/00112233/00112233/1330459
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/piconsnew/beinsportshd4.png" tvg-id="beINSports4En.qa" ,AR| BEIN SPORTS 4 SD
+http://tv.trexiptv.com/00112233/00112233/1330460
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/piconsnew/beinsports5.png" tvg-id="beINSports5En.qa" ,AR| BEIN SPORTS 5 SD
+http://tv.trexiptv.com/00112233/00112233/1330461
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/piconsnew/beinsports6.png" tvg-id="beINSports6En.qa" ,AR| BEIN SPORTS 6 SD
+http://tv.trexiptv.com/00112233/00112233/1330462
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/piconsnew/beinsports7.png" tvg-id="beINSports7En.qa" ,AR| BEIN SPORTS 7 SD
+http://tv.trexiptv.com/00112233/00112233/1330463
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/piconsnew/beinsportsxtra1.png" tvg-id="BeinSportsExtra1.qa" ,AR| BEIN SPORTS 1 XTRA SD
+http://tv.trexiptv.com/00112233/00112233/1330466
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/piconsnew/beinsportsxtra2.png" tvg-id="BeinSportsExtra2.qa" ,AR| BEIN SPORTS 2 XTRA SD
+http://tv.trexiptv.com/00112233/00112233/1330467
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORTS-XTRA.png" ,AR| BEIN SPORTS 3 XTRA SD
+http://tv.trexiptv.com/00112233/00112233/1330468
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/AL-KASS-1-HD.jpg" ,AR| AL KASS 1 HD
+http://tv.trexiptv.com/00112233/00112233/591593
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/alkass2.png" ,AR| AL KASS 2 HD
+http://tv.trexiptv.com/00112233/00112233/591591
+#EXTINF:-1 group-title="tv.trexiptv.com" ,AR| AL KASS 3 HD
+http://tv.trexiptv.com/00112233/00112233/787903
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/ALKASS-4-HD.jpg" ,AR| AL KASS 4 HD
+http://tv.trexiptv.com/00112233/00112233/591589
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/ALKASS-5.jpg" ,AR| AL KASS 5 HD
+http://tv.trexiptv.com/00112233/00112233/591587
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ad_sport_1.png" ,AR| AD SPORT ASIA 1 HD
+http://tv.trexiptv.com/00112233/00112233/993331
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/AD_SPORT_2.png" ,AR| AD SPORT ASIA 2 HD
+http://tv.trexiptv.com/00112233/00112233/993333
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/STARZPLAY.png" ,AR| STARZPLAY / AD SPORT 1 HD
+http://tv.trexiptv.com/00112233/00112233/988032
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/STARZPLAY.png" ,AR| STARZPLAY / AD SPORT 2 HD
+http://tv.trexiptv.com/00112233/00112233/988033
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/STARZPLAY.png" ,AR| STARZPLAY / AD SPORT 3 HD
+http://tv.trexiptv.com/00112233/00112233/988034
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/STARZPLAY.png" ,AR| STARZPLAY / AD SPORT 4 HD
+http://tv.trexiptv.com/00112233/00112233/988035
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/STARZPLAY.png" ,AR| STARZPLAY / AD SPORT 5 HD
+http://tv.trexiptv.com/00112233/00112233/988036
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" ,VIP| SSC 1 HD
+http://tv.trexiptv.com/00112233/00112233/1002801
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" ,VIP| SSC 2 HD
+http://tv.trexiptv.com/00112233/00112233/1002793
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" ,VIP| SSC 3 HD
+http://tv.trexiptv.com/00112233/00112233/1002785
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" ,VIP| SSC 4 HD
+http://tv.trexiptv.com/00112233/00112233/1002778
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" ,VIP| SSC 5 HD
+http://tv.trexiptv.com/00112233/00112233/1002774
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" ,VIP| SSC 1 SD
+http://tv.trexiptv.com/00112233/00112233/1002800
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" ,VIP| SSC 2 SD
+http://tv.trexiptv.com/00112233/00112233/1002792
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" ,VIP| SSC 3 SD
+http://tv.trexiptv.com/00112233/00112233/1002784
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" ,VIP| SSC 4 SD
+http://tv.trexiptv.com/00112233/00112233/1002777
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" ,VIP| SSC 5 SD
+http://tv.trexiptv.com/00112233/00112233/1002773
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" ,VIP| SSC 1 EXTRA HD
+http://tv.trexiptv.com/00112233/00112233/1002797
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" ,VIP| SSC 2 EXTRA HD
+http://tv.trexiptv.com/00112233/00112233/1002789
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" ,VIP| SSC 3 EXTRA HD
+http://tv.trexiptv.com/00112233/00112233/1002781
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" ,VIP| SSC 1 EXTRA SD
+http://tv.trexiptv.com/00112233/00112233/1002796
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" ,VIP| SSC 2 EXTRA SD
+http://tv.trexiptv.com/00112233/00112233/1002788
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/112.png" ,VIP| SSC 3 EXTRA SD
+http://tv.trexiptv.com/00112233/00112233/1002780
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/SSC-TRANSP.png" ,VIP| SSC HD1
+http://tv.trexiptv.com/00112233/00112233/1433962
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/SSC-TRANSP.png" ,VIP| SSC HD2
+http://tv.trexiptv.com/00112233/00112233/1433961
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/SSC-TRANSP.png" ,VIP| SSC HD3
+http://tv.trexiptv.com/00112233/00112233/1433960
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/SSC-TRANSP.png" ,VIP| SSC HD4
+http://tv.trexiptv.com/00112233/00112233/1433959
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/SSC-TRANSP.png" ,VIP| SSC HD5
+http://tv.trexiptv.com/00112233/00112233/1433958
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/SSC-TRANSP.png" ,VIP| SSC 1 SD
+http://tv.trexiptv.com/00112233/00112233/1433954
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/SSC-TRANSP.png" ,VIP| SSC 2 SD
+http://tv.trexiptv.com/00112233/00112233/1433953
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/SSC-TRANSP.png" ,VIP| SSC 3 SD
+http://tv.trexiptv.com/00112233/00112233/1433952
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/SSC-TRANSP.png" ,VIP| SSC 4 SD
+http://tv.trexiptv.com/00112233/00112233/1433951
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/SSC-TRANSP.png" ,VIP| SSC EXTRA 1 HD
+http://tv.trexiptv.com/00112233/00112233/1433957
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/SSC-TRANSP.png" ,VIP| SSC EXTRA 2 HD
+http://tv.trexiptv.com/00112233/00112233/1433956
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/SSC-TRANSP.png" ,VIP| SSC EXTRA 3 HD
+http://tv.trexiptv.com/00112233/00112233/1433955
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/SSC-TRANSP.png" ,VIP| SSC EXTRA 1 SD
+http://tv.trexiptv.com/00112233/00112233/1433950
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/SSC-TRANSP.png" ,VIP| SSC EXTRA 2 SD
+http://tv.trexiptv.com/00112233/00112233/1433949
+#EXTINF:-1 group-title="tv.trexiptv.com" tvg-logo="http://logo.protv.cc/picons/logos/SSC-TRANSP.png" ,VIP| SSC EXTRA 3 SD
+http://tv.trexiptv.com/00112233/00112233/1433948
 
